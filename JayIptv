@@ -1,1155 +1,759 @@
 #EXTM3U
-#EXTINF:-1,USA HBO Signature
-http://rb-group-server.com:25461/live/444777/777444/3711.m3u8
-#EXTINF:-1,USA HBO FAMILY
-http://rb-group-server.com:25461/live/444777/777444/3709.m3u8
-#EXTINF:-1,USA HBO ZONE
-http://rb-group-server.com:25461/live/444777/777444/3708.m3u8
-#EXTINF:-1,USA A&E
-http://rb-group-server.com:25461/live/444777/777444/3704.m3u8
-#EXTINF:-1,ABC
-http://rb-group-server.com:25461/live/444777/777444/3719.m3u8
-#EXTINF:-1,USA ABC NEWS
-http://rb-group-server.com:25461/live/444777/777444/3720.m3u8
-#EXTINF:-1,USA CBS
-http://rb-group-server.com:25461/live/444777/777444/3721.m3u8
-#EXTINF:-1,USA NBC
-http://rb-group-server.com:25461/live/444777/777444/3724.m3u8
-#EXTINF:-1,USA AFN Movie
-http://rb-group-server.com:25461/live/444777/777444/3696.m3u8
-#EXTINF:-1,USA CineMax
-http://rb-group-server.com:25461/live/444777/777444/3699.m3u8
-#EXTINF:-1,USA Bloomberg
-http://rb-group-server.com:25461/live/444777/777444/3694.m3u8
-#EXTINF:-1,USA Bravo
-http://rb-group-server.com:25461/live/444777/777444/3693.m3u8
-#EXTINF:-1,USA CNBC
-http://rb-group-server.com:25461/live/444777/777444/3722.m3u8
-#EXTINF:-1,USA CW
-http://rb-group-server.com:25461/live/444777/777444/3706.m3u8
-#EXTINF:-1,USA ESPN
-http://rb-group-server.com:25461/live/444777/777444/3692.m3u8
-#EXTINF:-1,USA ESPN 2
-http://rb-group-server.com:25461/live/444777/777444/3691.m3u8
-#EXTINF:-1,USA FOX
-http://rb-group-server.com:25461/live/444777/777444/3718.m3u8
-#EXTINF:-1,USA Fox News
-http://rb-group-server.com:25461/live/444777/777444/3717.m3u8
-#EXTINF:-1,USA FoxSports 1
-http://rb-group-server.com:25461/live/444777/777444/3716.m3u8
-#EXTINF:-1,USA Fox Sports 2 HD
-http://rb-group-server.com:25461/live/444777/777444/3715.m3u8
-#EXTINF:-1,USA FX
-http://rb-group-server.com:25461/live/444777/777444/3697.m3u8
-#EXTINF:-1,USA Hallmark
-http://rb-group-server.com:25461/live/444777/777444/3698.m3u8
-#EXTINF:-1,USA HISTORY
-http://rb-group-server.com:25461/live/444777/777444/3686.m3u8
-#EXTINF:-1,USA MTV Live
-http://rb-group-server.com:25461/live/444777/777444/3687.m3u8
-#EXTINF:-1,USA NBA TV
-http://rb-group-server.com:25461/live/444777/777444/3690.m3u8
-#EXTINF:-1,USA NFL NETWORK
-http://rb-group-server.com:25461/live/444777/777444/3689.m3u8
-#EXTINF:-1,USA SHOWTIME SHOWCASE
-http://rb-group-server.com:25461/live/444777/777444/3713.m3u8
-#EXTINF:-1,USA STARZ CINEMA
-http://rb-group-server.com:25461/live/444777/777444/3703.m3u8
-#EXTINF:-1,USA STARZ COMEDY
-http://rb-group-server.com:25461/live/444777/777444/3702.m3u8
-#EXTINF:-1,USA NETWORK
-http://rb-group-server.com:25461/live/444777/777444/3705.m3u8
-#EXTINF:-1,USA STARZ ENCORE
-http://rb-group-server.com:25461/live/444777/777444/3701.m3u8
-#EXTINF:-1,USA SYFY
-http://rb-group-server.com:25461/live/444777/777444/3700.m3u8
-#EXTINF:-1,USA WWEHD
-http://rb-group-server.com:25461/live/444777/777444/3695.m3u8
-#EXTINF:-1,CA-TSN1
-http://rb-group-server.com:25461/live/444777/777444/3684.m3u8
-#EXTINF:-1,CA-TSN2
-http://rb-group-server.com:25461/live/444777/777444/3683.m3u8
-#EXTINF:-1,CA-TSN3
-http://rb-group-server.com:25461/live/444777/777444/3682.m3u8
-#EXTINF:-1,CA-TSN4
-http://rb-group-server.com:25461/live/444777/777444/3681.m3u8
-#EXTINF:-1,CA-TSN5
-http://rb-group-server.com:25461/live/444777/777444/3680.m3u8
-#EXTINF:-1,CA-FOX EAST
-http://rb-group-server.com:25461/live/444777/777444/6800.m3u8
-#EXTINF:-1,CA-ABC WEST
-http://rb-group-server.com:25461/live/444777/777444/6790.m3u8
-#EXTINF:-1,CA-AMC
-http://rb-group-server.com:25461/live/444777/777444/6791.m3u8
-#EXTINF:-1,CA-NBC WEST
-http://rb-group-server.com:25461/live/444777/777444/6806.m3u8
-#EXTINF:-1,CA-MSNBC
-http://rb-group-server.com:25461/live/444777/777444/6803.m3u8
-#EXTINF:-1,CA-Animal Planet
-http://rb-group-server.com:25461/live/444777/777444/6792.m3u8
-#EXTINF:-1,CA-HISTORY
-http://rb-group-server.com:25461/live/444777/777444/6801.m3u8
-#EXTINF:-1,CA-Sportsnet One
-http://rb-group-server.com:25461/live/444777/777444/6808.m3u8
-#EXTINF:-1,CA-Sportsnet 360
-http://rb-group-server.com:25461/live/444777/777444/6807.m3u8
-#EXTINF:-1,CA-Sportsnet World
-http://rb-group-server.com:25461/live/444777/777444/6810.m3u8
-#EXTINF:-1,CA-Sportsnet Ontario
-http://rb-group-server.com:25461/live/444777/777444/6809.m3u8
-
-#EXTINF:-1 tvg-name="US: TBS" tvg-logo="http://logo.ndasat.com/iptv/images/4477_tbs.png" group-title="{BOUQUET_NAME}",US: TBS
-http://212.8.253.47:88/555155895930609/555155895930609/1639
-#EXTINF:-1 tvg-name="US:WWE us" tvg-logo="http://logo.ndasat.com/iptv/images/94391_wwe.jpg" group-title="{BOUQUET_NAME}",US:WWE us
-http://212.8.253.47:88/555155895930609/555155895930609/1657
-#EXTINF:-1 tvg-name="US:Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/3482_syfy.png" group-title="{BOUQUET_NAME}",US:Syfy
-http://212.8.253.47:88/555155895930609/555155895930609/1637
-#EXTINF:-1 tvg-name="US:CNN" tvg-logo="http://logo.ndasat.com/iptv/images/40283_cnn.png" group-title="{BOUQUET_NAME}",US:CNN
-http://212.8.253.47:88/555155895930609/555155895930609/1680
-#EXTINF:-1 tvg-name="US:Espn2" tvg-logo="http://logo.ndasat.com/iptv/images/18253_espn2.jpg" group-title="{BOUQUET_NAME}",US:Espn2
-http://212.8.253.47:88/555155895930609/555155895930609/1672
-#EXTINF:-1 tvg-name="US:Espn" tvg-logo="http://logo.ndasat.com/iptv/images/68152_espn.png" group-title="{BOUQUET_NAME}",US:Espn
-http://212.8.253.47:88/555155895930609/555155895930609/1670
-#EXTINF:-1 tvg-name="US:Fight Sports" tvg-logo="http://logo.ndasat.com/iptv/images/45655_fightsports.png" group-title="{BOUQUET_NAME}",US:Fight Sports
-http://212.8.253.47:88/555155895930609/555155895930609/1669
-#EXTINF:-1 tvg-name="US:Food Network" tvg-logo="http://logo.ndasat.com/iptv/images/80563_foodnetwork.jpg" group-title="{BOUQUET_NAME}",US:Food Network
-http://212.8.253.47:88/555155895930609/555155895930609/1668
-#EXTINF:-1 tvg-name="US:HBO HD" tvg-logo="http://logo.ndasat.com/iptv/images/438_hbo.png" group-title="{BOUQUET_NAME}",US:HBO HD
-http://212.8.253.47:88/555155895930609/555155895930609/1665
-#EXTINF:-1 tvg-name="US: History" tvg-logo="http://logo.ndasat.com/iptv/images/48151_history.png" group-title="{BOUQUET_NAME}",US: History
-http://212.8.253.47:88/555155895930609/555155895930609/1662
-#EXTINF:-1 tvg-name="US:Fox Sports1" tvg-logo="http://logo.ndasat.com/iptv/images/55626_fs1.png" group-title="{BOUQUET_NAME}",US:Fox Sports1
-http://212.8.253.47:88/555155895930609/555155895930609/1615
-#EXTINF:-1 tvg-name="US: NAT-GEO-HD" tvg-logo="" group-title="{BOUQUET_NAME}",US: NAT-GEO-HD
-http://212.8.253.47:88/555155895930609/555155895930609/1633
-#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="{BOUQUET_NAME}",Disney Junior
-http://212.8.253.47:88/555155895930609/555155895930609/1854
-#EXTINF:-1 tvg-name="US:NBA TV" tvg-logo="http://logo.ndasat.com/iptv/images/8505_nbatv.png" group-title="{BOUQUET_NAME}",US:NBA TV
-http://212.8.253.47:88/555155895930609/555155895930609/1631
-#EXTINF:-1 tvg-name="US:NBCSN HD" tvg-logo="" group-title="{BOUQUET_NAME}",US:NBCSN HD
-http://212.8.253.47:88/555155895930609/555155895930609/1630
-#EXTINF:-1 tvg-name="US: Fox Sports2" tvg-logo="http://logo.ndasat.com/iptv/images/62037_fs2.png" group-title="{BOUQUET_NAME}",US: Fox Sports2
-http://212.8.253.47:88/555155895930609/555155895930609/1648
-#EXTINF:-1 tvg-name="US:Nat-Geo-Wild" tvg-logo="" group-title="{BOUQUET_NAME}",US:Nat-Geo-Wild
-http://212.8.253.47:88/555155895930609/555155895930609/1632
-#EXTINF:-1 tvg-name="US:Abc News" tvg-logo="http://logo.ndasat.com/iptv/images/81881_abcnews.jpg" group-title="{BOUQUET_NAME}",US:Abc News
-http://212.8.253.47:88/555155895930609/555155895930609/1618
-#EXTINF:-1 tvg-name="US: AMC" tvg-logo="http://logo.ndasat.com/iptv/images/24638_amc.jpg" group-title="{BOUQUET_NAME}",US: AMC
-http://212.8.253.47:88/555155895930609/555155895930609/1623
-
-#EXTINF:-1,USA ABC NEWS
-http://rb-group-server.com:25461/12341234/12341234/3720
-#EXTINF:-1,USA CBS
-http://rb-group-server.com:25461/12341234/12341234/3721
-#EXTINF:-1,USA NBC
-http://rb-group-server.com:25461/12341234/12341234/3724
-#EXTINF:-1,USA AFN Movie
-http://rb-group-server.com:25461/12341234/12341234/3696
-#EXTINF:-1,USA CineMax
-http://rb-group-server.com:25461/12341234/12341234/3699
-#EXTINF:-1,USA Bloomberg
-http://rb-group-server.com:25461/12341234/12341234/3694
-#EXTINF:-1,USA Bravo
-http://rb-group-server.com:25461/12341234/12341234/3693
-#EXTINF:-1,USA CNBC
-http://rb-group-server.com:25461/12341234/12341234/3722
-#EXTINF:-1,USA CW
-http://rb-group-server.com:25461/12341234/12341234/3706
-#EXTINF:-1,USA ESPN
-http://rb-group-server.com:25461/12341234/12341234/3692
-#EXTINF:-1,USA ESPN 2
-http://rb-group-server.com:25461/12341234/12341234/3691
-#EXTINF:-1,USA FOX
-http://rb-group-server.com:25461/12341234/12341234/3718
-#EXTINF:-1,USA Fox News
-http://rb-group-server.com:25461/12341234/12341234/3717
-#EXTINF:-1,USA FoxSports 1
-http://rb-group-server.com:25461/12341234/12341234/3716
-#EXTINF:-1,USA Fox Sports 2 HD
-http://rb-group-server.com:25461/12341234/12341234/3715
-#EXTINF:-1,USA FX
-http://rb-group-server.com:25461/12341234/12341234/3697
-#EXTINF:-1,USA Hallmark
-http://rb-group-server.com:25461/12341234/12341234/3698
-#EXTINF:-1,USA HISTORY
-http://rb-group-server.com:25461/12341234/12341234/3686
-#EXTINF:-1,USA MTV Live
-http://rb-group-server.com:25461/12341234/12341234/3687
-#EXTINF:-1,USA NBA TV
-http://rb-group-server.com:25461/12341234/12341234/3690
-#EXTINF:-1,USA NFL NETWORK
-http://rb-group-server.com:25461/12341234/12341234/3689
-#EXTINF:-1,USA NHL NETWORK
-http://rb-group-server.com:25461/12341234/12341234/3688
-#EXTINF:-1,USA Showtime
-http://rb-group-server.com:25461/12341234/12341234/3714
-#EXTINF:-1,USA SHOWTIME SHOWCASE
-http://rb-group-server.com:25461/12341234/12341234/3713
-#EXTINF:-1,USA STARZ CINEMA
-http://rb-group-server.com:25461/12341234/12341234/3703
-#EXTINF:-1,USA STARZ COMEDY
-http://rb-group-server.com:25461/12341234/12341234/3702
-#EXTINF:-1,USA NETWORK
-http://rb-group-server.com:25461/12341234/12341234/3705
-#EXTINF:-1,USA STARZ ENCORE
-http://rb-group-server.com:25461/12341234/12341234/3701
-#EXTINF:-1,USA SYFY
-http://rb-group-server.com:25461/12341234/12341234/3700
-#EXTINF:-1,USA WWEHD
-http://rb-group-server.com:25461/12341234/12341234/3695
-#EXTINF:-1,USA HBO Signature
-http://rb-group-server.com:25461/12341234/12341234/3711
-#EXTINF:-1,USA HBO
-http://rb-group-server.com:25461/12341234/12341234/3710
-#EXTINF:-1,USA HBO FAMILY
-http://rb-group-server.com:25461/12341234/12341234/3709
-#EXTINF:-1,USA HBO ZONE
-http://rb-group-server.com:25461/12341234/12341234/3708
-#EXTINF:-1,USA A&E
-http://rb-group-server.com:25461/12341234/12341234/3704
-#EXTINF:-1,ABC
-http://rb-group-server.com:25461/12341234/12341234/3719
-#EXTINF:-1,NBCSN
-http://rb-group-server.com:25461/12341234/12341234/3723
-#EXTINF:-1,CA-TSN1
-http://rb-group-server.com:25461/12341234/12341234/3684
-#EXTINF:-1,CA-TSN2
-http://rb-group-server.com:25461/12341234/12341234/3683
-#EXTINF:-1,CA-TSN3
-http://rb-group-server.com:25461/12341234/12341234/3682
-#EXTINF:-1,CA-TSN4
-http://rb-group-server.com:25461/12341234/12341234/3681
-#EXTINF:-1,CA-TSN5
-http://rb-group-server.com:25461/12341234/12341234/3680
-#EXTINF:-1,CA-FOX EAST
-http://rb-group-server.com:25461/12341234/12341234/6800
-#EXTINF:-1,CA-ABC WEST
-http://rb-group-server.com:25461/12341234/12341234/6790
-#EXTINF:-1,CA-AMC
-http://rb-group-server.com:25461/12341234/12341234/6791
-#EXTINF:-1,CA-NBC WEST
-http://rb-group-server.com:25461/12341234/12341234/6806
-#EXTINF:-1,CA-MSNBC
-http://rb-group-server.com:25461/12341234/12341234/6803
-#EXTINF:-1,CA-Animal Planet
-http://rb-group-server.com:25461/12341234/12341234/6792
-#EXTINF:-1,CA-HISTORY
-http://rb-group-server.com:25461/12341234/12341234/6801
-#EXTINF:-1,CA-Sportsnet One
-http://rb-group-server.com:25461/12341234/12341234/6808
-#EXTINF:-1,CA-Sportsnet 360
-http://rb-group-server.com:25461/12341234/12341234/6807
-#EXTINF:-1,CA-Sportsnet World
-http://rb-group-server.com:25461/12341234/12341234/6810
-#EXTINF:-1,CA-Sportsnet Ontario
-http://rb-group-server.com:25461/12341234/12341234/6809
-#EXTINF:-1,BBC One
-http://rb-group-server.com:25461/12341234/12341234/3785
-#EXTINF:-1,BBC Two
-http://rb-group-server.com:25461/12341234/12341234/3783
-#EXTINF:-1,BBC Three
-http://rb-group-server.com:25461/12341234/12341234/3782
-#EXTINF:-1,BBC Four HD
-http://rb-group-server.com:25461/12341234/12341234/6034
-#EXTINF:-1,BBC World News
-http://rb-group-server.com:25461/12341234/12341234/3772
-#EXTINF:-1,BBC News UK
-http://rb-group-server.com:25461/12341234/12341234/3771
-#EXTINF:-1,BBC Alba
-http://rb-group-server.com:25461/12341234/12341234/6035
-#EXTINF:-1,Sky News
-http://rb-group-server.com:25461/12341234/12341234/4830
-#EXTINF:-1,CNBC
-http://rb-group-server.com:25461/12341234/12341234/3761
-#EXTINF:-1,CBBC HD
-http://rb-group-server.com:25461/12341234/12341234/3781
-#EXTINF:-1,Euronews UK
-http://rb-group-server.com:25461/12341234/12341234/3767
-#EXTINF:-1,ITV HD
-http://rb-group-server.com:25461/12341234/12341234/6032
-#EXTINF:-1,ITV 2
-http://rb-group-server.com:25461/12341234/12341234/6033
-#EXTINF:-1,ITV 3
-http://rb-group-server.com:25461/12341234/12341234/3780
-#EXTINF:-1,ITV 4
-http://rb-group-server.com:25461/12341234/12341234/3779
-#EXTINF:-1,ITV BE
-http://rb-group-server.com:25461/12341234/12341234/3778
-#EXTINF:-1,ITV Encore
-http://rb-group-server.com:25461/12341234/12341234/3777
-#EXTINF:-1,Channel 4
-http://rb-group-server.com:25461/12341234/12341234/3776
-#EXTINF:-1,Channel 5
-http://rb-group-server.com:25461/12341234/12341234/3775
-#EXTINF:-1,Channel 5 +1
-http://rb-group-server.com:25461/12341234/12341234/3760
-#EXTINF:-1,More 4
-http://rb-group-server.com:25461/12341234/12341234/3774
-#EXTINF:-1,E4
-http://rb-group-server.com:25461/12341234/12341234/3773
-#EXTINF:-1,RTE ONE HD
-http://rb-group-server.com:25461/12341234/12341234/3759
-#EXTINF:-1,Bloomberg
-http://rb-group-server.com:25461/12341234/12341234/3763
-#EXTINF:-1,FOX News
-http://rb-group-server.com:25461/12341234/12341234/3765
-#EXTINF:-1,CNN International
-http://rb-group-server.com:25461/12341234/12341234/3769
-#EXTINF:-1,CGTN News
-http://rb-group-server.com:25461/12341234/12341234/3764
-#EXTINF:-1,Gold
-http://rb-group-server.com:25461/12341234/12341234/4818
-#EXTINF:-1,Good Food
-http://rb-group-server.com:25461/12341234/12341234/4842
-#EXTINF:-1,Food Network
-http://rb-group-server.com:25461/12341234/12341234/3736
-#EXTINF:-1,TCM.
-http://rb-group-server.com:25461/12341234/12341234/3745
-#EXTINF:-1,CBS.Action
-http://rb-group-server.com:25461/12341234/12341234/3743
-#EXTINF:-1,CBS Drama
-http://rb-group-server.com:25461/12341234/12341234/3742
-#EXTINF:-1,CBS Reality
-http://rb-group-server.com:25461/12341234/12341234/4862
-#EXTINF:-1,Film4
-http://rb-group-server.com:25461/12341234/12341234/3744
-#EXTINF:-1,Comedy Central Extra
-http://rb-group-server.com:25461/12341234/12341234/4841
-#EXTINF:-1,Crime & Investigation
-http://rb-group-server.com:25461/12341234/12341234/4810
-#EXTINF:-1,Fox
-http://rb-group-server.com:25461/12341234/12341234/4838
-#EXTINF:-1,Movies24
-http://rb-group-server.com:25461/12341234/12341234/6036
-#EXTINF:-1,Movies4Men
-http://rb-group-server.com:25461/12341234/12341234/6037
-#EXTINF:-1,Sky Cinema Premier HD
-http://rb-group-server.com:25461/12341234/12341234/4852
-#EXTINF:-1,Sky Cinema Select HD
-http://rb-group-server.com:25461/12341234/12341234/4850
-#EXTINF:-1,Sky Cinema Action HD
-http://rb-group-server.com:25461/12341234/12341234/4853
-#EXTINF:-1,Sky Cinema Thriller HD
-http://rb-group-server.com:25461/12341234/12341234/4860
-#EXTINF:-1,Sky Cinema Scifi & Horror HD
-http://rb-group-server.com:25461/12341234/12341234/4858
-#EXTINF:-1,Sky Cinema Family HD
-http://rb-group-server.com:25461/12341234/12341234/4855
-#EXTINF:-1,Sky Cinema Comedy HD
-http://rb-group-server.com:25461/12341234/12341234/4859
-#EXTINF:-1,Sky Cinema Bourne HD
-http://rb-group-server.com:25461/12341234/12341234/4856
-#EXTINF:-1,Sky Cinema Christmas HD
-http://rb-group-server.com:25461/12341234/12341234/6039
-#EXTINF:-1,Sky Cinema Superhero HD
-http://rb-group-server.com:25461/12341234/12341234/6038
-#EXTINF:-1,Sky Cinema Greats
-http://rb-group-server.com:25461/12341234/12341234/4857
-#EXTINF:-1,Sky Cinema Disney HD
-http://rb-group-server.com:25461/12341234/12341234/4861
-#EXTINF:-1,Horror Channel
-http://rb-group-server.com:25461/12341234/12341234/3738
-#EXTINF:-1,Comedy Central
-http://rb-group-server.com:25461/12341234/12341234/3733
-#EXTINF:-1,Sky One
-http://rb-group-server.com:25461/12341234/12341234/4865
-#EXTINF:-1,Sky 2
-http://rb-group-server.com:25461/12341234/12341234/4864
-#EXTINF:-1,Sky Arts
-http://rb-group-server.com:25461/12341234/12341234/4863
-#EXTINF:-1,Sky.Atlantic
-http://rb-group-server.com:25461/12341234/12341234/4851
-#EXTINF:-1,Sky Living
-http://rb-group-server.com:25461/12341234/12341234/4854
-#EXTINF:-1,Capital TV
-http://rb-group-server.com:25461/12341234/12341234/4741
-#EXTINF:-1,Tru TV
-http://rb-group-server.com:25461/12341234/12341234/4840
-#EXTINF:-1,True Crime
-http://rb-group-server.com:25461/12341234/12341234/4844
-#EXTINF:-1,True Movies 1
-http://rb-group-server.com:25461/12341234/12341234/3741
-#EXTINF:-1,True Entertainment
-http://rb-group-server.com:25461/12341234/12341234/3739
-#EXTINF:-1,E!'
-http://rb-group-server.com:25461/12341234/12341234/4867
-#EXTINF:-1,STV Central West
-http://rb-group-server.com:25461/12341234/12341234/4820
-#EXTINF:-1,TG4
-http://rb-group-server.com:25461/12341234/12341234/4821
-#EXTINF:-1,The Vault
-http://rb-group-server.com:25461/12341234/12341234/4878
-#EXTINF:-1,Travel Channel
-http://rb-group-server.com:25461/12341234/12341234/4808
-#EXTINF:-1,Universal Channel
-http://rb-group-server.com:25461/12341234/12341234/4809
-#EXTINF:-1,Animal Planet.
-http://rb-group-server.com:25461/12341234/12341234/4804
-#EXTINF:-1,Discovery History
-http://rb-group-server.com:25461/12341234/12341234/4813
-#EXTINF:-1,Discovery.Investigation
-http://rb-group-server.com:25461/12341234/12341234/4812
-#EXTINF:-1,Discovery Shed
-http://rb-group-server.com:25461/12341234/12341234/4814
-#EXTINF:-1,Discovery Turbo
-http://rb-group-server.com:25461/12341234/12341234/4811
-#EXTINF:-1,National Geo.graphic
-http://rb-group-server.com:25461/12341234/12341234/4806
-#EXTINF:-1,National Geography Wild
-http://rb-group-server.com:25461/12341234/12341234/4807
-#EXTINF:-1,Quest
-http://rb-group-server.com:25461/12341234/12341234/3731
-#EXTINF:-1,Challenge
-http://rb-group-server.com:25461/12341234/12341234/4756
-#EXTINF:-1,Channel 3e
-http://rb-group-server.com:25461/12341234/12341234/4758
-#EXTINF:-1,Channel Aka
-http://rb-group-server.com:25461/12341234/12341234/4755
-#EXTINF:-1,Christmas Gold
-http://rb-group-server.com:25461/12341234/12341234/4848
-#EXTINF:-1,Hum Europe
-http://rb-group-server.com:25461/12341234/12341234/4798
-#EXTINF:-1,MUTV
-http://rb-group-server.com:25461/12341234/12341234/4769
-#EXTINF:-1,My 5
-http://rb-group-server.com:25461/12341234/12341234/4835
-#EXTINF:-1,NDTV 24x7
-http://rb-group-server.com:25461/12341234/12341234/4797
-#EXTINF:-1,NHK
-http://rb-group-server.com:25461/12341234/12341234/4739
-#EXTINF:-1,Pick
-http://rb-group-server.com:25461/12341234/12341234/4866
-#EXTINF:-1,Prime_TV
-http://rb-group-server.com:25461/12341234/12341234/4751
-#EXTINF:-1,Really
-http://rb-group-server.com:25461/12341234/12341234/4748
-#EXTINF:-1,Real Lives
-http://rb-group-server.com:25461/12341234/12341234/4826
-#EXTINF:-1,Rishtey
-http://rb-group-server.com:25461/12341234/12341234/4788
-#EXTINF:-1,RTE TWO HD
-http://rb-group-server.com:25461/12341234/12341234/4823
-#EXTINF:-1,Dmax UK
-http://rb-group-server.com:25461/12341234/12341234/3728
-#EXTINF:-1,Lifetime
-http://rb-group-server.com:25461/12341234/12341234/3737
-#EXTINF:-1,4Seven
-http://rb-group-server.com:25461/12341234/12341234/4837
-#EXTINF:-1,5 Star
-http://rb-group-server.com:25461/12341234/12341234/4831
-#EXTINF:-1,Alibi
-http://rb-group-server.com:25461/12341234/12341234/4839
-#EXTINF:-1,PBS America
-http://rb-group-server.com:25461/12341234/12341234/3730
-#EXTINF:-1,At The Races
-http://rb-group-server.com:25461/12341234/12341234/4763
-#EXTINF:-1,BET
-http://rb-group-server.com:25461/12341234/12341234/4816
-#EXTINF:-1,Bike
-http://rb-group-server.com:25461/12341234/12341234/4757
-#EXTINF:-1,Colors
-http://rb-group-server.com:25461/12341234/12341234/4789
-#EXTINF:-1,Dave ja vu
-http://rb-group-server.com:25461/12341234/12341234/4828
-#EXTINF:-1,S4C
-http://rb-group-server.com:25461/12341234/12341234/4752
-#EXTINF:-1,Scuzz
-http://rb-group-server.com:25461/12341234/12341234/4872
-#EXTINF:-1,MTV Dance
-http://rb-group-server.com:25461/12341234/12341234/4885
-#EXTINF:-1,MTV Hits
-http://rb-group-server.com:25461/12341234/12341234/4882
-#EXTINF:-1,MTV Music
-http://rb-group-server.com:25461/12341234/12341234/4881
-#EXTINF:-1,MTV Rocks
-http://rb-group-server.com:25461/12341234/12341234/4883
-#EXTINF:-1,MTV.Base
-http://rb-group-server.com:25461/12341234/12341234/4737
-#EXTINF:-1,MTV.
-http://rb-group-server.com:25461/12341234/12341234/3729
-#EXTINF:-1,VH1
-http://rb-group-server.com:25461/12341234/12341234/4877
-#EXTINF:-1,Viceland
-http://rb-group-server.com:25461/12341234/12341234/4827
-#EXTINF:-1,CITV
-http://rb-group-server.com:25461/12341234/12341234/3726
-#EXTINF:-1,4Music
-http://rb-group-server.com:25461/12341234/12341234/4874
-#EXTINF:-1,Box Nation
-http://rb-group-server.com:25461/12341234/12341234/4772
-#EXTINF:-1,Premier Sports
-http://rb-group-server.com:25461/12341234/12341234/4761
-#EXTINF:-1,Eurosport 1.
-http://rb-group-server.com:25461/12341234/12341234/4771
-#EXTINF:-1,Eurosport 2.
-http://rb-group-server.com:25461/12341234/12341234/4770
-#EXTINF:-1,Eir Sport1
-http://rb-group-server.com:25461/12341234/12341234/4765
-#EXTINF:-1,Eir Sport 2
-http://rb-group-server.com:25461/12341234/12341234/4740
-#EXTINF:-1,Sky Sports News UK
-http://rb-group-server.com:25461/12341234/12341234/4785
-#EXTINF:-1,Sky Sports Action
-http://rb-group-server.com:25461/12341234/12341234/4783
-#EXTM3U
-#EXTINF:-1,CAN: CP24
-http://xxultraxx.com:8000/live/abc12345/abc12345/9347.ts
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-http://xxultraxx.com:8000/live/abc12345/abc12345/9346.ts
-#EXTINF:-1,CAN: DISCOVERY CHANNEL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9344.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9343.ts
-#EXTINF:-1,CAN: FAMILY WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9341.ts
-#EXTINF:-1,CAN: FIGHT NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9340.ts
-#EXTINF:-1,CAN: BRAVO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9348.ts
-#EXTINF:-1,CAN: FOX-W
-http://xxultraxx.com:8000/live/abc12345/abc12345/9339.ts
-#EXTINF:-1,CAN: GAME TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9337.ts
-#EXTINF:-1,CAN: Hallmark
-http://xxultraxx.com:8000/live/abc12345/abc12345/9361.ts
-#EXTINF:-1,CAN: HBO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9336.ts
-#EXTINF:-1,CAN: HBO 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9335.ts
-#EXTINF:-1,CAN: NBC EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9324.ts
-#EXTINF:-1,CAN: PBS-W
-http://xxultraxx.com:8000/live/abc12345/abc12345/9334.ts
-#EXTINF:-1,CAN: SHOWTIME
-http://xxultraxx.com:8000/live/abc12345/abc12345/9332.ts
-#EXTINF:-1,CAN: TELETOON EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9330.ts
-#EXTINF:-1,CAN: TLC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9331.ts
-#EXTINF:-1,CAN: TRAVEL AND ESCAPE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9329.ts
-#EXTINF:-1,CAN: WSBK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9327.ts
-#EXTINF:-1,CAN: CTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9345.ts
-#EXTINF:-1,CAN: PEACH TREE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9333.ts
-#EXTINF:-1,CAN: TREEHOUSE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9328.ts
-#EXTINF:-1,CAN: YES
-http://xxultraxx.com:8000/live/abc12345/abc12345/9326.ts
-#EXTINF:-1,CAN: YTV-E
-http://xxultraxx.com:8000/live/abc12345/abc12345/9325.ts
-#EXTINF:-1,CAN: ABC EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9932.ts
-#EXTINF:-1,CAN: ABC SPARK CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9844.ts
-#EXTINF:-1,CAN: ABC WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9988.ts
-#EXTINF:-1,CAN: ACTION
-http://xxultraxx.com:8000/live/abc12345/abc12345/9889.ts
-#EXTINF:-1,CAN: ADDIK TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9888.ts
-#EXTINF:-1,CAN: AHC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9832.ts
-#EXTINF:-1,CAN: AMC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9987.ts
-#EXTINF:-1,CAN: ANIMAL PLANET
-http://xxultraxx.com:8000/live/abc12345/abc12345/9986.ts
-#EXTINF:-1,CAN: APTN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9887.ts
-#EXTINF:-1,CAN: ARTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9886.ts
-#EXTINF:-1,CAN: BBC CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9885.ts
-#EXTINF:-1,CAN: BBC KIDS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9884.ts
-#EXTINF:-1,CAN: BBC WORLD NEWS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9931.ts
-#EXTINF:-1,CAN: BET
-http://xxultraxx.com:8000/live/abc12345/abc12345/9930.ts
-#EXTINF:-1,CAN: BNN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9883.ts
-#EXTINF:-1,CAN: BOOK TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9929.ts
-#EXTINF:-1,CAN: CANAL D
-http://xxultraxx.com:8000/live/abc12345/abc12345/9910.ts
-#EXTINF:-1,CAN: CANAL SAVOIR
-http://xxultraxx.com:8000/live/abc12345/abc12345/9985.ts
-#EXTINF:-1,CAN: CARTOON NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9928.ts
-#EXTINF:-1,CAN: CASA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9984.ts
-#EXTINF:-1,CAN: CBC MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9831.ts
-#EXTINF:-1,CAN: CBC NEWS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9927.ts
-#EXTINF:-1,CAN: CBC OTTAWA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9882.ts
-#EXTINF:-1,CAN: CBC TORONTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9983.ts
-#EXTINF:-1,CAN: CBC VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9881.ts
-#EXTINF:-1,CAN: CBS EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9880.ts
-#EXTINF:-1,CAN: CBS WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9879.ts
-#EXTINF:-1,CAN: CHCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9982.ts
-#EXTINF:-1,CAN: CINEPOP
-http://xxultraxx.com:8000/live/abc12345/abc12345/9878.ts
-#EXTINF:-1,CAN: CITY TORONTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9877.ts
-#EXTINF:-1,CAN: CITY VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9909.ts
-#EXTINF:-1,CAN: CMT CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9926.ts
-#EXTINF:-1,CAN: CNBC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9876.ts
-#EXTINF:-1,CAN: CNN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9981.ts
-#EXTINF:-1,CAN: CNN INTERNATIONAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9875.ts
-#EXTINF:-1,CAN: COMEDY EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9830.ts
-#EXTINF:-1,CAN: COMEDY GOLD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9980.ts
-#EXTINF:-1,CAN: COOKING CHANNEL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9979.ts
-#EXTINF:-1,CAN: COSMO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9925.ts
-#EXTINF:-1,CAN: COTTAGE LIFE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9924.ts
-#EXTINF:-1,CAN: CPAC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9978.ts
-#EXTINF:-1,CAN: CPAC FRENCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9977.ts
-#EXTINF:-1,CAN: CTV 2 VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9976.ts
-#EXTINF:-1,CAN: CTV NEWS NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9975.ts
-#EXTINF:-1,CAN: CTV OTTAWA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9974.ts
-#EXTINF:-1,CAN: CTV VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9814.ts
-#EXTINF:-1,CAN: CTV2 OTTAWA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9829.ts
-#EXTINF:-1,CAN: CW 11
-http://xxultraxx.com:8000/live/abc12345/abc12345/9973.ts
-#EXTINF:-1,CAN: DAYSTAR TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9972.ts
-#EXTINF:-1,CAN: DEJAVIEW
-http://xxultraxx.com:8000/live/abc12345/abc12345/9923.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE USA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9847.ts
-#EXTINF:-1,CAN: DISCOVERY VELOCITY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9845.ts
-#EXTINF:-1,CAN: DISNEY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9843.ts
-#EXTINF:-1,CAN: DISNEY CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9828.ts
-#EXTINF:-1,CAN: DISNEY FRENCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9971.ts
-#EXTINF:-1,CAN: DISNEY JR
-http://xxultraxx.com:8000/live/abc12345/abc12345/9836.ts
-#EXTINF:-1,CAN: DIY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9874.ts
-#EXTINF:-1,CAN: DOCUMENTARY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9922.ts
-#EXTINF:-1,CAN: DTOUR
-http://xxultraxx.com:8000/live/abc12345/abc12345/9970.ts
-#EXTINF:-1,CAN: E!ntertenment
-http://xxultraxx.com:8000/live/abc12345/abc12345/9827.ts
-#EXTINF:-1,CAN: ENCORE 1 EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9969.ts
-#EXTINF:-1,CAN: ENCORE 2 EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9869.ts
-#EXTINF:-1,CAN: FAMILY CHRGD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9873.ts
-#EXTINF:-1,CAN: FAMILY EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9835.ts
-#EXTINF:-1,CAN: FOOD NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9968.ts
-#EXTINF:-1,CAN: FOX EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9868.ts
-#EXTINF:-1,CAN: FOX NEWS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9967.ts
-#EXTINF:-1,CAN: FRISIN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9840.ts
-#EXTINF:-1,CAN: FTV CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9867.ts
-#EXTINF:-1,CAN: FX CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9838.ts
-#EXTINF:-1,CAN: FX USA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9842.ts
-#EXTINF:-1,CAN: FYI
-http://xxultraxx.com:8000/live/abc12345/abc12345/9966.ts
-#EXTINF:-1,CAN: Ginx Esports
-http://xxultraxx.com:8000/live/abc12345/abc12345/9826.ts
-#EXTINF:-1,CAN: GLOBAL TORONTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9965.ts
-#EXTINF:-1,CAN: GLOBAL VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9866.ts
-#EXTINF:-1,CAN: GOLF
-http://xxultraxx.com:8000/live/abc12345/abc12345/9921.ts
-#EXTINF:-1,CAN: GOLF HD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9809.ts
-#EXTINF:-1,CAN: GSN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9964.ts
-#EXTINF:-1,CAN: GUSTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9872.ts
-#EXTINF:-1,CAN: H2 CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9863.ts
-#EXTINF:-1,CAN: HGTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9963.ts
-#EXTINF:-1,CAN: HISTORIO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9815.ts
-#EXTINF:-1,CAN: HISTORY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9962.ts
-#EXTINF:-1,CAN: HLN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9871.ts
-#EXTINF:-1,CAN: ICI MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9813.ts
-#EXTINF:-1,CAN: ICI VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9812.ts
-#EXTINF:-1,CAN: ID CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9912.ts
-#EXTINF:-1,CAN: IFC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9911.ts
-#EXTINF:-1,CAN: KNOWLEDGE KIDS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9908.ts
-#EXTINF:-1,CAN: KTLA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9862.ts
-#EXTINF:-1,CAN: LCN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9907.ts
-#EXTINF:-1,CAN: LEAFS TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9816.ts
-#EXTINF:-1,CAN: LIFETIME
-http://xxultraxx.com:8000/live/abc12345/abc12345/9861.ts
-#EXTINF:-1,CAN: LOVE NATURE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9837.ts
-#EXTINF:-1,CAN: MAVTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9906.ts
-#EXTINF:-1,CAN: MAX
-http://xxultraxx.com:8000/live/abc12345/abc12345/9825.ts
-#EXTINF:-1,CAN: METEO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9824.ts
-#EXTINF:-1,CAN: MIRACLE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9905.ts
-#EXTINF:-1,CAN: MOI CIE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9960.ts
-#EXTINF:-1,CAN: MSNBC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9841.ts
-#EXTINF:-1,CAN: MTIME
-http://xxultraxx.com:8000/live/abc12345/abc12345/9959.ts
-#EXTINF:-1,CAN: MTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9958.ts
-#EXTINF:-1,CAN: MUCH MUSIC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9870.ts
-#EXTINF:-1,CAN: MUSIQUE PLUS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9957.ts
-#EXTINF:-1,CAN: NAT GEO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9865.ts
-#EXTINF:-1,CAN: NBA TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9904.ts
-#EXTINF:-1,CAN: NBC WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9956.ts
-#EXTINF:-1,CAN: NICK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9955.ts
-#EXTINF:-1,CAN: NTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9903.ts
-#EXTINF:-1,CAN: OLN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9954.ts
-#EXTINF:-1,CAN: OMNI 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9953.ts
-#EXTINF:-1,CAN: OMNI 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9834.ts
-#EXTINF:-1,CAN: ONE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9823.ts
-#EXTINF:-1,CAN: OUTTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9952.ts
-#EXTINF:-1,CAN: OWN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9951.ts
-#EXTINF:-1,CAN: PRISE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9860.ts
-#EXTINF:-1,CAN: RDI
-http://xxultraxx.com:8000/live/abc12345/abc12345/9950.ts
-#EXTINF:-1,CAN: RDS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9859.ts
-#EXTINF:-1,CAN: RDS 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9822.ts
-#EXTINF:-1,CAN: SERIS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9858.ts
-#EXTINF:-1,CAN: SHOPPING
-http://xxultraxx.com:8000/live/abc12345/abc12345/9945.ts
-#EXTINF:-1,CAN: SHOWCASE EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9821.ts
-#EXTINF:-1,CAN: SILVER SCREEN CLASSICS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9902.ts
-#EXTINF:-1,CAN: SLICE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9857.ts
-#EXTINF:-1,CAN: SMITHSONIAN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9810.ts
-#EXTINF:-1,CAN: SPACE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9944.ts
-#EXTINF:-1,CAN: SPIKE TV / PARAMOUNT CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9817.ts
-#EXTINF:-1,CAN: SPIKE TV USA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9846.ts
-#EXTINF:-1,CAN: SPORTSNET 360
-http://xxultraxx.com:8000/live/abc12345/abc12345/9915.ts
-#EXTINF:-1,CAN: SPORTSNET EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9864.ts
-#EXTINF:-1,CAN: SPORTSNET ONE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9914.ts
-#EXTINF:-1,CAN: SPORTSNET ONTARIO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9913.ts
-#EXTINF:-1,CAN: SPORTSNET PACIFIC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9943.ts
-#EXTINF:-1,CAN: SPORTSNET WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9901.ts
-#EXTINF:-1,CAN: SPORTSNET WORLD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9942.ts
-#EXTINF:-1,CAN: SUNDANCE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9856.ts
-#EXTINF:-1,CAN: SUPER CHANNEL 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9941.ts
-#EXTINF:-1,CAN: SUPER CHANNEL 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9940.ts
-#EXTINF:-1,CAN: SUPER CHANNEL VAULT
-http://xxultraxx.com:8000/live/abc12345/abc12345/9900.ts
-#EXTINF:-1,CAN: SUPER ECRAN 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9949.ts
-#EXTINF:-1,CAN: SUPER ECRAN 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9948.ts
-#EXTINF:-1,CAN: SUPER ECRAN 3
-http://xxultraxx.com:8000/live/abc12345/abc12345/9947.ts
-#EXTINF:-1,CAN: SUPER ECRAN 4
-http://xxultraxx.com:8000/live/abc12345/abc12345/9946.ts
-#EXTINF:-1,CAN: TCM
-http://xxultraxx.com:8000/live/abc12345/abc12345/9939.ts
-#EXTINF:-1,CAN: TELE LATINO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9855.ts
-#EXTINF:-1,CAN: TELE QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9899.ts
-#EXTINF:-1,CAN: TELE TOON FRENCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9898.ts
-#EXTINF:-1,CAN: TELEMAGINO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9961.ts
-#EXTINF:-1,CAN: THE WEATHER NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9820.ts
-#EXTINF:-1,CAN: TMN 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9854.ts
-#EXTINF:-1,CAN: TMN 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9853.ts
-#EXTINF:-1,CAN: TMN 3
-http://xxultraxx.com:8000/live/abc12345/abc12345/9839.ts
-#EXTINF:-1,CAN: TMN 4
-http://xxultraxx.com:8000/live/abc12345/abc12345/9852.ts
-#EXTINF:-1,CAN: TSN 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9920.ts
-#EXTINF:-1,CAN: TSN 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9919.ts
-#EXTINF:-1,CAN: TSN 3
-http://xxultraxx.com:8000/live/abc12345/abc12345/9918.ts
-#EXTINF:-1,CAN: TSN 4
-http://xxultraxx.com:8000/live/abc12345/abc12345/9917.ts
-#EXTINF:-1,CAN: TSN 5
-http://xxultraxx.com:8000/live/abc12345/abc12345/9916.ts
-#EXTINF:-1,CAN: TV5 QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9819.ts
-#EXTINF:-1,CAN: TVA GATINEAU
-http://xxultraxx.com:8000/live/abc12345/abc12345/9851.ts
-#EXTINF:-1,CAN: TVA MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9897.ts
-#EXTINF:-1,CAN: TVA QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9938.ts
-#EXTINF:-1,CAN: TVA SPORTS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9937.ts
-#EXTINF:-1,CAN: TVO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9818.ts
-#EXTINF:-1,CAN: UNIVISION CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9811.ts
-#EXTINF:-1,CAN: V MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9896.ts
-#EXTINF:-1,CAN: VICELAND
-http://xxultraxx.com:8000/live/abc12345/abc12345/9850.ts
-#EXTINF:-1,CAN: VIE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9895.ts
-#EXTINF:-1,CAN: VISION
-http://xxultraxx.com:8000/live/abc12345/abc12345/9936.ts
-#EXTINF:-1,CAN: VRAK TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9935.ts
-#EXTINF:-1,CAN: W NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9894.ts
-#EXTINF:-1,CAN: WFN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9893.ts
-#EXTINF:-1,CAN: WGN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9892.ts
-#EXTINF:-1,CAN: Wild TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9891.ts
-#EXTINF:-1,CAN: YOOPA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9849.ts
-#EXTINF:-1,CAN: YTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9890.ts
-#EXTINF:-1,CAN: Z TELE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9934.ts
-#EXTINF:-1,CAN: ZEE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9933.ts
-#EXTINF:-1,CAN: ZESTE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9848.ts
-#EXTINF:-1,CAN: CITY MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/10270.ts
-#EXTINF:-1,CAN: COMEDY WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/10271.ts
-#EXTINF:-1,CAN: CTV HALIFAX
-http://xxultraxx.com:8000/live/abc12345/abc12345/10266.ts
-#EXTINF:-1,CAN: GLOBAL HALIFAX
-http://xxultraxx.com:8000/live/abc12345/abc12345/10265.ts
-#EXTINF:-1,CAN: HOPE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/10264.ts
-#EXTINF:-1,CAN: JOY TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/10263.ts
-#EXTINF:-1,CAN: MAKEFUL
-http://xxultraxx.com:8000/live/abc12345/abc12345/10269.ts
-#EXTINF:-1,CAN: MLB NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/10267.ts
-#EXTINF:-1,CAN: RDS INFO
-http://xxultraxx.com:8000/live/abc12345/abc12345/10272.ts
-#EXTINF:-1,CAN: TELE TOON WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/10274.ts
-#EXTINF:-1,CAN: TFO
-http://xxultraxx.com:8000/live/abc12345/abc12345/10273.ts
-#EXTINF:-1,CAN: TLC CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/10268.ts
-#EXTINF:-1,CAN: UNIS TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/10261.ts
-#EXTINF:-1,CAN: V QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/10262.ts
-
-#EXTINF:-1,CA: HBO
-http://xxultraxx.com:80/live/sumsum/sumsum/7635.ts
-#EXTINF:-1,CA: HBO COMEDY HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9349.ts
-#EXTINF:-1,CA: HBO FAMILY HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9351.ts
-#EXTINF:-1,CA: HBO SIGNATURE HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9350.ts
-#EXTINF:-1,CA: HBO ZONE
-http://xxultraxx.com:80/live/sumsum/sumsum/7633.ts
-#EXTINF:-1,CA: HGTV
-http://xxultraxx.com:80/live/sumsum/sumsum/7649.ts
-#EXTINF:-1,CA: HSN
-http://xxultraxx.com:80/live/sumsum/sumsum/7618.ts
-#EXTINF:-1,CA: ID
-http://xxultraxx.com:80/live/sumsum/sumsum/7662.ts
-#EXTINF:-1,CA: LIFETIME HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9363.ts
-#EXTINF:-1,CA: National_Geographie
-http://xxultraxx.com:80/live/sumsum/sumsum/7623.ts
-#EXTINF:-1,CA: NBC_Golf
-http://xxultraxx.com:80/live/sumsum/sumsum/7629.ts
-#EXTINF:-1,CA: NFL_Network
-http://xxultraxx.com:80/live/sumsum/sumsum/7643.ts
-#EXTINF:-1,CA: SPIKE
-http://xxultraxx.com:80/live/sumsum/sumsum/7647.ts
-#EXTINF:-1,CA: TBS
-http://xxultraxx.com:80/live/sumsum/sumsum/7658.ts
-#EXTINF:-1,CA: TNT
-http://xxultraxx.com:80/live/sumsum/sumsum/7660.ts
-#EXTINF:-1,CA: CNN
-http://xxultraxx.com:80/live/sumsum/sumsum/9338.ts
-#EXTINF:-1,CA: UNIVISION HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9342.ts
-#EXTINF:-1,CA: CINEMAX HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9992.ts
-#EXTINF:-1,CA: FX HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9991.ts
-#EXTINF:-1,CA: FXM HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9989.ts
-#EXTINF:-1,CA: FXX HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9990.ts
-#EXTINF:-1,CA: WWE
-http://xxultraxx.com:80/live/sumsum/sumsum/7651.ts
-#EXTINF:-1,CAN: CP24
-http://xxultraxx.com:80/live/sumsum/sumsum/9347.ts
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-http://xxultraxx.com:80/live/sumsum/sumsum/9346.ts
-#EXTINF:-1,CAN: DISCOVERY CHANNEL
-http://xxultraxx.com:80/live/sumsum/sumsum/9344.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE
-http://xxultraxx.com:80/live/sumsum/sumsum/9343.ts
-#EXTINF:-1,CAN: FAMILY WEST
-http://xxultraxx.com:80/live/sumsum/sumsum/9341.ts
-#EXTINF:-1,CAN: FIGHT NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9340.ts
-#EXTINF:-1,CAN: BRAVO
-http://xxultraxx.com:80/live/sumsum/sumsum/9348.ts
-#EXTINF:-1,CAN: FOX-W
-http://xxultraxx.com:80/live/sumsum/sumsum/9339.ts
-#EXTINF:-1,CAN: GAME TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9337.ts
-#EXTINF:-1,CAN: Hallmark
-http://xxultraxx.com:80/live/sumsum/sumsum/9361.ts
-#EXTINF:-1,CAN: HBO
-http://xxultraxx.com:80/live/sumsum/sumsum/9336.ts
-#EXTINF:-1,CAN: HBO 2
-http://xxultraxx.com:80/live/sumsum/sumsum/9335.ts
-#EXTINF:-1,CAN: NBC EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9324.ts
-#EXTINF:-1,CAN: PBS-W
-http://xxultraxx.com:80/live/sumsum/sumsum/9334.ts
-#EXTINF:-1,CAN: SHOWTIME
-http://xxultraxx.com:80/live/sumsum/sumsum/9332.ts
-#EXTINF:-1,CAN: TELETOON EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9330.ts
-#EXTINF:-1,CAN: TLC
-http://xxultraxx.com:80/live/sumsum/sumsum/9331.ts
-#EXTINF:-1,CAN: TRAVEL AND ESCAPE
-http://xxultraxx.com:80/live/sumsum/sumsum/9329.ts
-#EXTINF:-1,CAN: WSBK
-http://xxultraxx.com:80/live/sumsum/sumsum/9327.ts
-#EXTINF:-1,CAN: CTV
-http://xxultraxx.com:80/live/sumsum/sumsum/9345.ts
-#EXTINF:-1,CAN: PEACH TREE TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9333.ts
-#EXTINF:-1,CAN: TREEHOUSE TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9328.ts
-#EXTINF:-1,CAN: YES
-http://xxultraxx.com:80/live/sumsum/sumsum/9326.ts
-#EXTINF:-1,CAN: YTV-E
-http://xxultraxx.com:80/live/sumsum/sumsum/9325.ts
-#EXTINF:-1,CAN: ABC EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9932.ts
-#EXTINF:-1,CAN: ABC SPARK CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9844.ts
-#EXTINF:-1,CAN: ABC WEST
-http://xxultraxx.com:80/live/sumsum/sumsum/9988.ts
-#EXTINF:-1,CAN: ACTION
-http://xxultraxx.com:80/live/sumsum/sumsum/9889.ts
-#EXTINF:-1,CAN: ADDIK TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9888.ts
-#EXTINF:-1,CAN: AHC
-http://xxultraxx.com:80/live/sumsum/sumsum/9832.ts
-#EXTINF:-1,CAN: AMC
-http://xxultraxx.com:80/live/sumsum/sumsum/9987.ts
-#EXTINF:-1,CAN: ANIMAL PLANET
-http://xxultraxx.com:80/live/sumsum/sumsum/9986.ts
-#EXTINF:-1,CAN: APTN
-http://xxultraxx.com:80/live/sumsum/sumsum/9887.ts
-#EXTINF:-1,CAN: ARTV
-http://xxultraxx.com:80/live/sumsum/sumsum/9886.ts
-#EXTINF:-1,CAN: BBC CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9885.ts
-#EXTINF:-1,CAN: BBC KIDS
-http://xxultraxx.com:80/live/sumsum/sumsum/9884.ts
-#EXTINF:-1,CAN: BBC WORLD NEWS
-http://xxultraxx.com:80/live/sumsum/sumsum/9931.ts
-#EXTINF:-1,CAN: BET
-http://xxultraxx.com:80/live/sumsum/sumsum/9930.ts
-#EXTINF:-1,CAN: BNN
-http://xxultraxx.com:80/live/sumsum/sumsum/9883.ts
-#EXTINF:-1,CAN: BOOK TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9929.ts
-#EXTINF:-1,CAN: CANAL D
-http://xxultraxx.com:80/live/sumsum/sumsum/9910.ts
-#EXTINF:-1,CAN: CANAL SAVOIR
-http://xxultraxx.com:80/live/sumsum/sumsum/9985.ts
-#EXTINF:-1,CAN: CARTOON NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9928.ts
-#EXTINF:-1,CAN: CASA
-http://xxultraxx.com:80/live/sumsum/sumsum/9984.ts
-#EXTINF:-1,CAN: CBC MONTREAL
-http://xxultraxx.com:80/live/sumsum/sumsum/9831.ts
-#EXTINF:-1,CAN: CBC NEWS
-http://xxultraxx.com:80/live/sumsum/sumsum/9927.ts
-#EXTINF:-1,CAN: CBC OTTAWA
-http://xxultraxx.com:80/live/sumsum/sumsum/9882.ts
-#EXTINF:-1,CAN: CBC TORONTO
-http://xxultraxx.com:80/live/sumsum/sumsum/9983.ts
-#EXTINF:-1,CAN: CBC VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9881.ts
-#EXTINF:-1,CAN: CBS EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9880.ts
-#EXTINF:-1,CAN: CBS WEST
-http://xxultraxx.com:80/live/sumsum/sumsum/9879.ts
-#EXTINF:-1,CAN: CHCH
-http://xxultraxx.com:80/live/sumsum/sumsum/9982.ts
-#EXTINF:-1,CAN: CINEPOP
-http://xxultraxx.com:80/live/sumsum/sumsum/9878.ts
-#EXTINF:-1,CAN: CITY TORONTO
-http://xxultraxx.com:80/live/sumsum/sumsum/9877.ts
-#EXTINF:-1,CAN: CITY VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9909.ts
-#EXTINF:-1,CAN: CMT CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9926.ts
-#EXTINF:-1,CAN: CNBC
-http://xxultraxx.com:80/live/sumsum/sumsum/9876.ts
-#EXTINF:-1,CAN: CNN
-http://xxultraxx.com:80/live/sumsum/sumsum/9981.ts
-#EXTINF:-1,CAN: CNN INTERNATIONAL
-http://xxultraxx.com:80/live/sumsum/sumsum/9875.ts
-#EXTINF:-1,CAN: COMEDY EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9830.ts
-#EXTINF:-1,CAN: COMEDY GOLD
-http://xxultraxx.com:80/live/sumsum/sumsum/9980.ts
-#EXTINF:-1,CAN: COOKING CHANNEL
-http://xxultraxx.com:80/live/sumsum/sumsum/9979.ts
-#EXTINF:-1,CAN: COSMO
-http://xxultraxx.com:80/live/sumsum/sumsum/9925.ts
-#EXTINF:-1,CAN: COTTAGE LIFE
-http://xxultraxx.com:80/live/sumsum/sumsum/9924.ts
-#EXTINF:-1,CAN: CPAC
-http://xxultraxx.com:80/live/sumsum/sumsum/9978.ts
-#EXTINF:-1,CAN: CPAC FRENCH
-http://xxultraxx.com:80/live/sumsum/sumsum/9977.ts
-#EXTINF:-1,CAN: CTV 2 VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9976.ts
-#EXTINF:-1,CAN: CTV NEWS NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9975.ts
-#EXTINF:-1,CAN: CTV OTTAWA
-http://xxultraxx.com:80/live/sumsum/sumsum/9974.ts
-#EXTINF:-1,CAN: CTV VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9814.ts
-#EXTINF:-1,CAN: CTV2 OTTAWA
-http://xxultraxx.com:80/live/sumsum/sumsum/9829.ts
-#EXTINF:-1,CAN: CW 11
-http://xxultraxx.com:80/live/sumsum/sumsum/9973.ts
-#EXTINF:-1,CAN: DAYSTAR TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9972.ts
-#EXTINF:-1,CAN: DEJAVIEW
-http://xxultraxx.com:80/live/sumsum/sumsum/9923.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE USA
-http://xxultraxx.com:80/live/sumsum/sumsum/9847.ts
-#EXTINF:-1,CAN: DISCOVERY VELOCITY
-http://xxultraxx.com:80/live/sumsum/sumsum/9845.ts
-#EXTINF:-1,CAN: DISNEY
-http://xxultraxx.com:80/live/sumsum/sumsum/9843.ts
-#EXTINF:-1,CAN: DISNEY CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9828.ts
-#EXTINF:-1,CAN: DISNEY FRENCH
-http://xxultraxx.com:80/live/sumsum/sumsum/9971.ts
-#EXTINF:-1,CAN: DISNEY JR
-http://xxultraxx.com:80/live/sumsum/sumsum/9836.ts
-#EXTINF:-1,CAN: DIY
-http://xxultraxx.com:80/live/sumsum/sumsum/9874.ts
-#EXTINF:-1,CAN: DOCUMENTARY
-http://xxultraxx.com:80/live/sumsum/sumsum/9922.ts
-#EXTINF:-1,CAN: DTOUR
-http://xxultraxx.com:80/live/sumsum/sumsum/9970.ts
-#EXTINF:-1,CAN: E!ntertenment
-http://xxultraxx.com:80/live/sumsum/sumsum/9827.ts
-#EXTINF:-1,CAN: ENCORE 1 EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9969.ts
-#EXTINF:-1,CAN: ENCORE 2 EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9869.ts
-#EXTINF:-1,CAN: FAMILY CHRGD
-http://xxultraxx.com:80/live/sumsum/sumsum/9873.ts
-#EXTINF:-1,CAN: FAMILY EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9835.ts
-#EXTINF:-1,CAN: FOOD NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9968.ts
-#EXTINF:-1,CAN: FOX EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9868.ts
-#EXTINF:-1,CAN: FOX NEWS
-http://xxultraxx.com:80/live/sumsum/sumsum/9967.ts
+#EXTINF:0,USA: A & E
+http://iptvhosting.org.uk:83/7676/6767/308972
+#EXTINF:0,USA: A & E FHD
+http://iptvhosting.org.uk:83/7676/6767/308971
+#EXTINF:0,USA: ABC
+http://iptvhosting.org.uk:83/7676/6767/308970
+#EXTINF:0,USA: ABC EAST HD
+http://iptvhosting.org.uk:83/7676/6767/308969
+#EXTINF:0,USA: ABC NEWS HD
+http://iptvhosting.org.uk:83/7676/6767/308968
+#EXTINF:0,USA: ABC NY FHD
+http://iptvhosting.org.uk:83/7676/6767/308967
+#EXTINF:0,USA: AL JAZEERA NEWS ENGLISH HD
+http://iptvhosting.org.uk:83/7676/6767/308966
+#EXTINF:0,USA: AMC
+http://iptvhosting.org.uk:83/7676/6767/308965
+#EXTINF:0,USA: AMERICAN HEROES CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308964
+#EXTINF:0,USA: ANIMAL PLANET
+http://iptvhosting.org.uk:83/7676/6767/308963
+#EXTINF:0,USA: ANTENNA TV
+http://iptvhosting.org.uk:83/7676/6767/308962
+#EXTINF:0,USA: BABY TV
+http://iptvhosting.org.uk:83/7676/6767/308961
+#EXTINF:0,USA: BBC AMERICA
+http://iptvhosting.org.uk:83/7676/6767/308960
+#EXTINF:0,USA: BEIN SPORT USA
+http://iptvhosting.org.uk:83/7676/6767/308959
+#EXTINF:0,USA: BIG TEN NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308956
+#EXTINF:0,USA: BLOOMBERG
+http://iptvhosting.org.uk:83/7676/6767/308955
+#EXTINF:0,USA: BOOMERANG
+http://iptvhosting.org.uk:83/7676/6767/308954
+#EXTINF:0,USA: BOUNCE TV
+http://iptvhosting.org.uk:83/7676/6767/308953
+#EXTINF:0,USA: BRAVO
+http://iptvhosting.org.uk:83/7676/6767/308952
+#EXTINF:0,USA: BUZZER
+http://iptvhosting.org.uk:83/7676/6767/308951
+#EXTINF:0,USA: CARTOON NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308950
+#EXTINF:0,USA: CARTOONITO ES
+http://iptvhosting.org.uk:83/7676/6767/308949
+#EXTINF:0,USA: CBS EAST
+http://iptvhosting.org.uk:83/7676/6767/308948
+#EXTINF:0,USA: CBS NY FHD
+http://iptvhosting.org.uk:83/7676/6767/308947
+#EXTINF:0,USA: CBS SPORTS NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308946
+#EXTINF:0,USA: CBSN SPORTS NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308945
+#EXTINF:0,USA: CHICAGO WGN 9
+http://iptvhosting.org.uk:83/7676/6767/308944
+#EXTINF:0,USA: CINEMAX ACTION MAX EAST
+http://iptvhosting.org.uk:83/7676/6767/308943
+#EXTINF:0,USA: CINEMAX EAST
+http://iptvhosting.org.uk:83/7676/6767/308942
+#EXTINF:0,USA: CINEMAX OUTERMAX
+http://iptvhosting.org.uk:83/7676/6767/308941
+#EXTINF:0,USA: CINEMAX THRILLERMAX HD
+http://iptvhosting.org.uk:83/7676/6767/308940
+#EXTINF:0,USA: CINEMAXX MORE MAXX
+http://iptvhosting.org.uk:83/7676/6767/308939
+#EXTINF:0,USA: CMT HD
+http://iptvhosting.org.uk:83/7676/6767/308938
+#EXTINF:0,USA: CNBC
+http://iptvhosting.org.uk:83/7676/6767/308937
+#EXTINF:0,USA: CNN
+http://iptvhosting.org.uk:83/7676/6767/308936
+#EXTINF:0,USA: COMEDY CENTRAL
+http://iptvhosting.org.uk:83/7676/6767/308935
+#EXTINF:0,USA: COOKING CHANNEL HD
+http://iptvhosting.org.uk:83/7676/6767/308934
+#EXTINF:0,USA: COUNTRY NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308933
+#EXTINF:0,USA: COZI TV
+http://iptvhosting.org.uk:83/7676/6767/308932
+#EXTINF:0,USA: CRIME AND INVESTIGATION
+http://iptvhosting.org.uk:83/7676/6767/308931
+#EXTINF:0,USA: CSPAN
+http://iptvhosting.org.uk:83/7676/6767/308930
+#EXTINF:0,USA: CW HD
+http://iptvhosting.org.uk:83/7676/6767/308929
+#EXTINF:0,USA: DESTINATION AMERICA
+http://iptvhosting.org.uk:83/7676/6767/308928
+#EXTINF:0,USA: DISCOVERY CHANNEL FHD
+http://iptvhosting.org.uk:83/7676/6767/308927
+#EXTINF:0,USA: DISCOVERY CHANNEL HD
+http://iptvhosting.org.uk:83/7676/6767/308926
+#EXTINF:0,USA: DISCOVERY FAMILY
+http://iptvhosting.org.uk:83/7676/6767/308925
+#EXTINF:0,USA: DISCOVERY LIFE
+http://iptvhosting.org.uk:83/7676/6767/308924
+#EXTINF:0,USA: DISCOVERY SCIENCE HD
+http://iptvhosting.org.uk:83/7676/6767/308923
+#EXTINF:0,USA: DISCOVERY VELOCITY
+http://iptvhosting.org.uk:83/7676/6767/308922
+#EXTINF:0,USA: DISNEY CHANNEL HD
+http://iptvhosting.org.uk:83/7676/6767/308921
+#EXTINF:0,USA: DISNEY JNR
+http://iptvhosting.org.uk:83/7676/6767/308920
+#EXTINF:0,USA: DISNEY XD
+http://iptvhosting.org.uk:83/7676/6767/308919
+#EXTINF:0,USA: DIY NETWORK HD
+http://iptvhosting.org.uk:83/7676/6767/308918
+#EXTINF:0,USA: DOG TV
+http://iptvhosting.org.uk:83/7676/6767/308917
+#EXTINF:0,USA: E!
+http://iptvhosting.org.uk:83/7676/6767/308916
+#EXTINF:0,USA: EL REY NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308915
+#EXTINF:0,USA: ELEVEN SPORTS HD
+http://iptvhosting.org.uk:83/7676/6767/308914
+#EXTINF:0,USA: EPIX 2
+http://iptvhosting.org.uk:83/7676/6767/308913
+#EXTINF:0,USA: EPIX HD
+http://iptvhosting.org.uk:83/7676/6767/308912
+#EXTINF:0,USA: EPIX HITS
+http://iptvhosting.org.uk:83/7676/6767/308911
+#EXTINF:0,USA: ESPN
+http://iptvhosting.org.uk:83/7676/6767/308910
+#EXTINF:0,USA: ESPN 2
+http://iptvhosting.org.uk:83/7676/6767/308909
+#EXTINF:0,USA: ESPN NEWS
+http://iptvhosting.org.uk:83/7676/6767/308908
+#EXTINF:0,USA: ESPN U
+http://iptvhosting.org.uk:83/7676/6767/308907
+#EXTINF:0,USA: FOOD NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308906
+#EXTINF:0,USA: FOX 5 HD
+http://iptvhosting.org.uk:83/7676/6767/308905
+#EXTINF:0,USA: FOX 50
+http://iptvhosting.org.uk:83/7676/6767/308904
+#EXTINF:0,USA: FOX BUSINESS HD
+http://iptvhosting.org.uk:83/7676/6767/308903
+#EXTINF:0,USA: Fox College Atlantic
+http://iptvhosting.org.uk:83/7676/6767/308902
+#EXTINF:0,USA: Fox College Central
+http://iptvhosting.org.uk:83/7676/6767/308901
+#EXTINF:0,USA: Fox College Pacific
+http://iptvhosting.org.uk:83/7676/6767/308900
+#EXTINF:0,USA: FOX DEPORTES
+http://iptvhosting.org.uk:83/7676/6767/308899
+#EXTINF:0,USA: FOX NEWS
+http://iptvhosting.org.uk:83/7676/6767/308898
+#EXTINF:0,USA: Fox Soccer Plus
+http://iptvhosting.org.uk:83/7676/6767/308897
+#EXTINF:0,USA: FOX SPORTS 1
+http://iptvhosting.org.uk:83/7676/6767/308896
+#EXTINF:0,USA: FOX SPORTS 1 FHD
+http://iptvhosting.org.uk:83/7676/6767/308895
+#EXTINF:0,USA: FOX SPORTS 2 NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308894
+#EXTINF:0,USA: FREEFORM HD
+http://iptvhosting.org.uk:83/7676/6767/308893
+#EXTINF:0,USA: FUSE
+http://iptvhosting.org.uk:83/7676/6767/308892
+#EXTINF:0,USA: FUSION
+http://iptvhosting.org.uk:83/7676/6767/308891
+#EXTINF:0,USA: FX HD
+http://iptvhosting.org.uk:83/7676/6767/308890
+#EXTINF:0,USA: FXM
+http://iptvhosting.org.uk:83/7676/6767/308889
+#EXTINF:0,USA: FXM EAST SD
+http://iptvhosting.org.uk:83/7676/6767/308888
+#EXTINF:0,USA: FXX
+http://iptvhosting.org.uk:83/7676/6767/308887
+#EXTINF:0,USA: FYI NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308886
+#EXTINF:0,USA: GALAVISION
+http://iptvhosting.org.uk:83/7676/6767/308885
+#EXTINF:0,USA: GAME SHOW NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308884
+#EXTINF:0,USA: GOLF CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308883
+#EXTINF:0,USA: HALLMARK DRAMA
+http://iptvhosting.org.uk:83/7676/6767/308882
+#EXTINF:0,USA: HALLMARK HD
+http://iptvhosting.org.uk:83/7676/6767/308881
+#EXTINF:0,USA: HALLMARK MOVIES & MYSTERIES HD
+http://iptvhosting.org.uk:83/7676/6767/308880
+#EXTINF:0,USA: HBO 2 HD
+http://iptvhosting.org.uk:83/7676/6767/308879
+#EXTINF:0,USA: HBO COMEDY HD
+http://iptvhosting.org.uk:83/7676/6767/308878
+#EXTINF:0,USA: HBO FAMILY HD
+http://iptvhosting.org.uk:83/7676/6767/308877
+#EXTINF:0,USA: HBO HD
+http://iptvhosting.org.uk:83/7676/6767/308876
+#EXTINF:0,USA: HBO SIGNATURE
+http://iptvhosting.org.uk:83/7676/6767/308875
+#EXTINF:0,USA: HBO ZONE HD
+http://iptvhosting.org.uk:83/7676/6767/308874
+#EXTINF:0,USA: HEROS & ICONS
+http://iptvhosting.org.uk:83/7676/6767/308873
+#EXTINF:0,USA: HGTV FHD
+http://iptvhosting.org.uk:83/7676/6767/308872
+#EXTINF:0,USA: HGTV HD
+http://iptvhosting.org.uk:83/7676/6767/308871
+#EXTINF:0,USA: HISTORY 2
+http://iptvhosting.org.uk:83/7676/6767/308870
+#EXTINF:0,USA: HISTORY CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308869
+#EXTINF:0,USA: HISTORY CHANNEL FHD
+http://iptvhosting.org.uk:83/7676/6767/308868
+#EXTINF:0,USA: HLN
+http://iptvhosting.org.uk:83/7676/6767/308867
+#EXTINF:0,USA: HSN
+http://iptvhosting.org.uk:83/7676/6767/308866
+#EXTINF:0,USA: IFC
+http://iptvhosting.org.uk:83/7676/6767/308865
+#EXTINF:0,USA: INVESTIGATION DISCOVERY FHD
+http://iptvhosting.org.uk:83/7676/6767/308864
+#EXTINF:0,USA: INVESTIGATION DISCOVERY HD
+http://iptvhosting.org.uk:83/7676/6767/308863
+#EXTINF:0,USA: ION TV
+http://iptvhosting.org.uk:83/7676/6767/308862
+#EXTINF:0,USA: LIFETIME
+http://iptvhosting.org.uk:83/7676/6767/308861
+#EXTINF:0,USA: LIFETIME MOVIES
+http://iptvhosting.org.uk:83/7676/6767/308860
+#EXTINF:0,USA: LONGHORN NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308859
+#EXTINF:0,USA: MAV TV
+http://iptvhosting.org.uk:83/7676/6767/308858
+#EXTINF:0,USA: ME TV
+http://iptvhosting.org.uk:83/7676/6767/308857
+#EXTINF:0,USA: MGM HD
+http://iptvhosting.org.uk:83/7676/6767/308856
+#EXTINF:0,USA: MLB NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308855
+#EXTINF:0,USA: MOTORSPORT TV
+http://iptvhosting.org.uk:83/7676/6767/308854
+#EXTINF:0,USA: MSG
+http://iptvhosting.org.uk:83/7676/6767/308853
+#EXTINF:0,USA: MSNBC
+http://iptvhosting.org.uk:83/7676/6767/308852
+#EXTINF:0,USA: MY 9
+http://iptvhosting.org.uk:83/7676/6767/308847
+#EXTINF:0,USA: NAT GEO USA
+http://iptvhosting.org.uk:83/7676/6767/308846
+#EXTINF:0,USA: NAT GEO WILD HD US
+http://iptvhosting.org.uk:83/7676/6767/308845
+#EXTINF:0,USA: NBA TV HD
+http://iptvhosting.org.uk:83/7676/6767/308844
+#EXTINF:0,USA: NBC 10 EAST
+http://iptvhosting.org.uk:83/7676/6767/308843
+#EXTINF:0,USA: NBC 4 NY
+http://iptvhosting.org.uk:83/7676/6767/308842
+#EXTINF:0,USA: NBC 4 NY FHD
+http://iptvhosting.org.uk:83/7676/6767/308841
+#EXTINF:0,USA: NBC 5
+http://iptvhosting.org.uk:83/7676/6767/308840
+#EXTINF:0,USA: NBC GOLF
+http://iptvhosting.org.uk:83/7676/6767/308839
+#EXTINF:0,USA: NBC Sports Bay Area HD
+http://iptvhosting.org.uk:83/7676/6767/308838
+#EXTINF:0,USA: NBC Sports Boston HD
+http://iptvhosting.org.uk:83/7676/6767/308837
+#EXTINF:0,USA: NBC Sports California HD
+http://iptvhosting.org.uk:83/7676/6767/308836
+#EXTINF:0,USA: NBC Sports Chicago HD
+http://iptvhosting.org.uk:83/7676/6767/308835
+#EXTINF:0,USA: NBC SPORTS NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308834
+#EXTINF:0,USA: NBC Sports Northwest HD
+http://iptvhosting.org.uk:83/7676/6767/308833
+#EXTINF:0,USA: NBC Sports Philadelphia HD
+http://iptvhosting.org.uk:83/7676/6767/308832
+#EXTINF:0,USA: NBC UNIVERSO
+http://iptvhosting.org.uk:83/7676/6767/308831
+#EXTINF:0,USA: NESN
+http://iptvhosting.org.uk:83/7676/6767/308830
+#EXTINF:0,USA: NEW ORLEANS TV
+http://iptvhosting.org.uk:83/7676/6767/308829
+#EXTINF:0,USA: NEWS 12 LONG ISLAND
+http://iptvhosting.org.uk:83/7676/6767/308828
+#EXTINF:0,USA: NEWS 12 NEW JERSEY
+http://iptvhosting.org.uk:83/7676/6767/308827
+#EXTINF:0,USA: NFL NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308826
+#EXTINF:0,USA: NFL NOW
+http://iptvhosting.org.uk:83/7676/6767/308825
+#EXTINF:0,USA: NFL RED ZONE
+http://iptvhosting.org.uk:83/7676/6767/308824
+#EXTINF:0,USA: NHL NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308823
+#EXTINF:0,USA: NICK HD
+http://iptvhosting.org.uk:83/7676/6767/308822
+#EXTINF:0,USA: NICK JR
+http://iptvhosting.org.uk:83/7676/6767/308821
+#EXTINF:0,USA: NICK JR.TOO
+http://iptvhosting.org.uk:83/7676/6767/308820
+#EXTINF:0,USA: NICKTOONS
+http://iptvhosting.org.uk:83/7676/6767/308819
+#EXTINF:0,USA: OUTDOOR CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308818
+#EXTINF:0,USA: OVATION
+http://iptvhosting.org.uk:83/7676/6767/308817
+#EXTINF:0,USA: OWN NETWORK FHD
+http://iptvhosting.org.uk:83/7676/6767/308816
+#EXTINF:0,USA: OXYGEN
+http://iptvhosting.org.uk:83/7676/6767/308815
+#EXTINF:0,USA: PAC 12 LOS ANGELES
+http://iptvhosting.org.uk:83/7676/6767/308814
+#EXTINF:0,USA: PAC 12 NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308813
+#EXTINF:0,USA: PAC-12 ARIZONA
+http://iptvhosting.org.uk:83/7676/6767/308812
+#EXTINF:0,USA: PAC-12 BAY AREA
+http://iptvhosting.org.uk:83/7676/6767/308811
+#EXTINF:0,USA: PAC-12 MOUNTAIN
+http://iptvhosting.org.uk:83/7676/6767/308810
+#EXTINF:0,USA: PAC-12 OREGON
+http://iptvhosting.org.uk:83/7676/6767/308809
+#EXTINF:0,USA: PBS
+http://iptvhosting.org.uk:83/7676/6767/308808
+#EXTINF:0,USA: PBS KIDS EAST
+http://iptvhosting.org.uk:83/7676/6767/308807
+#EXTINF:0,USA: PBS WLIW 21
+http://iptvhosting.org.uk:83/7676/6767/308806
+#EXTINF:0,USA: QVC
+http://iptvhosting.org.uk:83/7676/6767/308804
+#EXTINF:0,USA: REELZ
+http://iptvhosting.org.uk:83/7676/6767/308803
+#EXTINF:0,USA: REVOLT
+http://iptvhosting.org.uk:83/7676/6767/308802
+#EXTINF:0,USA: RT NEWS
+http://iptvhosting.org.uk:83/7676/6767/308801
+#EXTINF:0,USA: SEC NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308800
+#EXTINF:0,USA: SHOWTIME EXTREME
+http://iptvhosting.org.uk:83/7676/6767/308799
+#EXTINF:0,USA: SHOWTIME FAMILY ZONE
+http://iptvhosting.org.uk:83/7676/6767/308798
+#EXTINF:0,USA: SHOWTIME HD
+http://iptvhosting.org.uk:83/7676/6767/308797
+#EXTINF:0,USA: SPIKE/PARAMOUNT
+http://iptvhosting.org.uk:83/7676/6767/308796
+#EXTINF:0,USA: SPORTSMAN CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308795
+#EXTINF:0,USA: SPORTSNET LA
+http://iptvhosting.org.uk:83/7676/6767/308794
+#EXTINF:0,USA: SPORTSNET NY
+http://iptvhosting.org.uk:83/7676/6767/308793
+#EXTINF:0,USA: STARZ
+http://iptvhosting.org.uk:83/7676/6767/308792
+#EXTINF:0,USA: STARZ COMEDY
+http://iptvhosting.org.uk:83/7676/6767/308791
+#EXTINF:0,USA: STARZ ENCORE
+http://iptvhosting.org.uk:83/7676/6767/308790
+#EXTINF:0,USA: STARZ ENCORE WESTERNS
+http://iptvhosting.org.uk:83/7676/6767/308789
+#EXTINF:0,USA: STARZ KIDS & FAMILY
+http://iptvhosting.org.uk:83/7676/6767/308788
+#EXTINF:0,USA: SUNDANCE
+http://iptvhosting.org.uk:83/7676/6767/308787
+#EXTINF:0,USA: SYFY
+http://iptvhosting.org.uk:83/7676/6767/308786
+#EXTINF:0,USA: TBN Trinity Broadcasting Network
+http://iptvhosting.org.uk:83/7676/6767/308785
+#EXTINF:0,USA: TBS
+http://iptvhosting.org.uk:83/7676/6767/308784
+#EXTINF:0,USA: TCM
+http://iptvhosting.org.uk:83/7676/6767/308783
+#EXTINF:0,USA: TEEN NICK
+http://iptvhosting.org.uk:83/7676/6767/308782
+#EXTINF:0,USA: TELEMUNDO
+http://iptvhosting.org.uk:83/7676/6767/308781
+#EXTINF:0,USA: TENNIS HD
+http://iptvhosting.org.uk:83/7676/6767/308780
+#EXTINF:0,USA: THE WEATHER CHANNEL HD
+http://iptvhosting.org.uk:83/7676/6767/308779
+#EXTINF:0,USA: TLC CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308778
+#EXTINF:0,USA: TNT
+http://iptvhosting.org.uk:83/7676/6767/308777
+#EXTINF:0,USA: TRAVEL CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/308776
+#EXTINF:0,USA: TRU TV
+http://iptvhosting.org.uk:83/7676/6767/308775
+#EXTINF:0,USA: TUFF TV
+http://iptvhosting.org.uk:83/7676/6767/308774
+#EXTINF:0,USA: TV LAND HD
+http://iptvhosting.org.uk:83/7676/6767/308773
+#EXTINF:0,USA: TVONE
+http://iptvhosting.org.uk:83/7676/6767/308772
+#EXTINF:0,USA: UNIMAS
+http://iptvhosting.org.uk:83/7676/6767/308771
+#EXTINF:0,USA: UNIVERSAL HD
+http://iptvhosting.org.uk:83/7676/6767/308770
+#EXTINF:0,USA: UNIVERSAL KIDS HD
+http://iptvhosting.org.uk:83/7676/6767/308769
+#EXTINF:0,USA: UNIVISION
+http://iptvhosting.org.uk:83/7676/6767/308768
+#EXTINF:0,USA: UNIVISION TDN
+http://iptvhosting.org.uk:83/7676/6767/308767
+#EXTINF:0,USA: USA NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308766
+#EXTINF:0,USA: VICELAND
+http://iptvhosting.org.uk:83/7676/6767/308764
+#EXTINF:0,USA: WE TV
+http://iptvhosting.org.uk:83/7676/6767/308763
+#EXTINF:0,USA: WGN AMERICA
+http://iptvhosting.org.uk:83/7676/6767/308762
+#EXTINF:0,USA: WORLD FISHING NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308761
+#EXTINF:0,USA: WPIX 11 NY
+http://iptvhosting.org.uk:83/7676/6767/308760
+#EXTINF:0,USA: WWE
+http://iptvhosting.org.uk:83/7676/6767/308759
+#EXTINF:0,USA: YES NETWORK
+http://iptvhosting.org.uk:83/7676/6767/308758
+#EXTINF:0,VIP AMC HD
+http://iptvhosting.org.uk:83/7676/6767/305163
+#EXTINF:0,VIP Animal Planet HD
+http://iptvhosting.org.uk:83/7676/6767/305162
+#EXTINF:0,NBC KARE Minneapolis -  Minnesota
+http://iptvhosting.org.uk:83/7676/6767/300465
+#EXTINF:0,NBC KBLR  Las Vegas -  Nevada
+http://iptvhosting.org.uk:83/7676/6767/300464
+#EXTINF:0,NBC KCRA  Sacramento -  California
+http://iptvhosting.org.uk:83/7676/6767/300463
+#EXTINF:0,NBC KDEN Denver -  Colorado
+http://iptvhosting.org.uk:83/7676/6767/300462
+#EXTINF:0,NBC KGW Portland -  Oregon
+http://iptvhosting.org.uk:83/7676/6767/300461
+#EXTINF:0,NBC KING Seattle -  Washington
+http://iptvhosting.org.uk:83/7676/6767/300459
+#EXTINF:0,NBC KNSD San Diego -  California
+http://iptvhosting.org.uk:83/7676/6767/300458
+#EXTINF:0,NBC KNSO Fresno -  California
+http://iptvhosting.org.uk:83/7676/6767/300457
+#EXTINF:0,NBC KPNX  Phoenix -  Arizona
+http://iptvhosting.org.uk:83/7676/6767/300456
+#EXTINF:0,NBC KPRC Houston -  Texas
+http://iptvhosting.org.uk:83/7676/6767/300455
+#EXTINF:0,NBC KSDK  St. Louis -  Missouri
+http://iptvhosting.org.uk:83/7676/6767/300454
+#EXTINF:0,NBC KSHB  Kansas City -  Missouri
+http://iptvhosting.org.uk:83/7676/6767/300453
+#EXTINF:0,NBC KSL Salt Lake City -  Utah
+http://iptvhosting.org.uk:83/7676/6767/300452
+#EXTINF:0,NBC KTAZ Phoenix -  Arizona
+http://iptvhosting.org.uk:83/7676/6767/300451
+#EXTINF:0,NBC KTMD Houston -  Texas
+http://iptvhosting.org.uk:83/7676/6767/300449
+#EXTINF:0,NBC KUSA Denver -  Colorado
+http://iptvhosting.org.uk:83/7676/6767/300448
+#EXTINF:0,NBC KVDA San Antonio -  Texas
+http://iptvhosting.org.uk:83/7676/6767/300447
+#EXTINF:0,NBC KXAS Fort Worth -  Texas
+http://iptvhosting.org.uk:83/7676/6767/300446
+#EXTINF:0,NBC KXTX Dallas -  Texas
+http://iptvhosting.org.uk:83/7676/6767/300445
+#EXTINF:0,NBC WBAL Baltimore -  Maryland
+http://iptvhosting.org.uk:83/7676/6767/300444
+#EXTINF:0,NBC WBTS Boston -  Massachusetts
+http://iptvhosting.org.uk:83/7676/6767/300443
+#EXTINF:0,NBC WCNC Charlotte -  North Carolina
+http://iptvhosting.org.uk:83/7676/6767/300442
+#EXTINF:0,NBC WDIV  Detroit -  Michigan
+http://iptvhosting.org.uk:83/7676/6767/300441
+#EXTINF:0,NBC WDSU  New Orleans -  Louisiana
+http://iptvhosting.org.uk:83/7676/6767/300440
+#EXTINF:0,NBC WESH Orlando -  Florida
+http://iptvhosting.org.uk:83/7676/6767/300439
+#EXTINF:0,NBC WGBA Green Bay -  Wisconsin
+http://iptvhosting.org.uk:83/7676/6767/300438
+#EXTINF:0,NBC WGRZ  Buffalo -  New York
+http://iptvhosting.org.uk:83/7676/6767/300437
+#EXTINF:0,NBC WKYC Cleveland -  Ohio
+http://iptvhosting.org.uk:83/7676/6767/300436
+#EXTINF:0,NBC WMAQ Chicago -  ill.
+http://iptvhosting.org.uk:83/7676/6767/325450
+#EXTINF:0,NBC WNEU Boston -  Massachusetts
+http://iptvhosting.org.uk:83/7676/6767/300435
+#EXTINF:0,NBC WOAI San Antonio -  Texas
+http://iptvhosting.org.uk:83/7676/6767/300434
+#EXTINF:0,NBC WPXI Philadelphia -  Pennsylvania
+http://iptvhosting.org.uk:83/7676/6767/300433
+#EXTINF:0,NBC WRAL Raleigh -  North Carolina
+http://iptvhosting.org.uk:83/7676/6767/300432
+#EXTINF:0,NBC WRC Washington -  D.C.
+http://iptvhosting.org.uk:83/7676/6767/300431
+#EXTINF:0,NBC WSCV Miami -  Florida
+http://iptvhosting.org.uk:83/7676/6767/300430
+#EXTINF:0,NBC WSMV Nashville -  Tennessee
+http://iptvhosting.org.uk:83/7676/6767/300429
+#EXTINF:0,NBC KAIT Jonesboro -  Arkansas
+http://iptvhosting.org.uk:83/7676/6767/310565
+#EXTINF:0,NBC KALB Alexandria -  Louisiana
+http://iptvhosting.org.uk:83/7676/6767/310564
+#EXTINF:0,NBC KCBD Lubbock -  Texas
+http://iptvhosting.org.uk:83/7676/6767/310563
+#EXTINF:0,NBC KCHY Casper -  Wyoming
+http://iptvhosting.org.uk:83/7676/6767/310562
+#EXTINF:0,NBC KCWY Casper -  Wyoming
+http://iptvhosting.org.uk:83/7676/6767/310561
+#EXTINF:0,NBC KFYR Bismarck -  North Dakota
+http://iptvhosting.org.uk:83/7676/6767/310560
+#EXTINF:0,NBC KGNS Laredo -  Texas
+http://iptvhosting.org.uk:83/7676/6767/310559
+#EXTINF:0,NBC KHNL Honolulu -  Hawaii
+http://iptvhosting.org.uk:83/7676/6767/310558
+#EXTINF:0,NBC KIEM Eureka -  California
+http://iptvhosting.org.uk:83/7676/6767/310557
+#EXTINF:0,NBC KJRH Tulsa -  Oklahoma
+http://iptvhosting.org.uk:83/7676/6767/310556
+#EXTINF:0,NBC KKCO Grand Junction -  Colorado
+http://iptvhosting.org.uk:83/7676/6767/310555
+#EXTINF:0,NBC KMIR Coachella Valley -  California
+http://iptvhosting.org.uk:83/7676/6767/310554
+#EXTINF:0,NBC KNBN Rapid City -  South Dakota
+http://iptvhosting.org.uk:83/7676/6767/310553
+#EXTINF:0,NBC KNOP North Platte -  Nebraska
+http://iptvhosting.org.uk:83/7676/6767/310552
+#EXTINF:0,NBC KNVN Chico -  California
+http://iptvhosting.org.uk:83/7676/6767/310551
+#EXTINF:0,NBC KOBI Medford -  Oregon
+http://iptvhosting.org.uk:83/7676/6767/310550
+#EXTINF:0,NBC KPLC  Lake Charles -  Louisiana
+http://iptvhosting.org.uk:83/7676/6767/310549
+#EXTINF:0,NBC KRNV Reno -  Nevada
+http://iptvhosting.org.uk:83/7676/6767/310548
+#EXTINF:0,NBC KSBW  Salinas -  California
+http://iptvhosting.org.uk:83/7676/6767/310547
+#EXTINF:0,NBC KSNB Superior -  Nebraska
+http://iptvhosting.org.uk:83/7676/6767/310546
+#EXTINF:0,NBC KTUU Anchorage -  Alaska
+http://iptvhosting.org.uk:83/7676/6767/310545
+#EXTINF:0,NBC KTVF Fairbanks -  Alaska
+http://iptvhosting.org.uk:83/7676/6767/310544
+#EXTINF:0,NBC KVLY Fargo -  North Dakota
+http://iptvhosting.org.uk:83/7676/6767/310543
+#EXTINF:0,NBC KWES  Odessa -  Texas
+http://iptvhosting.org.uk:83/7676/6767/310542
+#EXTINF:0,NBC KWQC Davenport -  Iowa
+http://iptvhosting.org.uk:83/7676/6767/310541
+#EXTINF:0,NBC KYTV Springfield -  Missouri
+http://iptvhosting.org.uk:83/7676/6767/310540
+#EXTINF:0,NBC WAFF Huntsville -  Alabama
+http://iptvhosting.org.uk:83/7676/6767/310539
+#EXTINF:0,NBC WAGT Augusta -  Georgia
+http://iptvhosting.org.uk:83/7676/6767/310538
+#EXTINF:0,NBC WALB Albany -  Georgia
+http://iptvhosting.org.uk:83/7676/6767/310537
+#EXTINF:0,NBC WAND Decatur -  Illinois
+http://iptvhosting.org.uk:83/7676/6767/310536
+#EXTINF:0,NBC WAVE Louisville -  Kentucky
+http://iptvhosting.org.uk:83/7676/6767/310535
+#EXTINF:0,NBC WDAM Hattiesburg -  Mississippi
+http://iptvhosting.org.uk:83/7676/6767/310534
+#EXTINF:0,NBC WEAU Eau Claire -  Wisconsin
+http://iptvhosting.org.uk:83/7676/6767/310533
+#EXTINF:0,NBC WECT Wilmington -  North Carolina
+http://iptvhosting.org.uk:83/7676/6767/310532
+#EXTINF:0,NBC WFIE Evansville -  Indiana
+http://iptvhosting.org.uk:83/7676/6767/310531
+#EXTINF:0,NBC WGAL Lancaster -  Pennsylvania
+http://iptvhosting.org.uk:83/7676/6767/310530
+#EXTINF:0,NBC WGBC Meridian -  Mississippi
+http://iptvhosting.org.uk:83/7676/6767/310529
+#EXTINF:0,NBC WHIZ  Zanesville -  Ohio
+http://iptvhosting.org.uk:83/7676/6767/310528
+#EXTINF:0,NBC WICU Erie -  Pennsylvania
+http://iptvhosting.org.uk:83/7676/6767/310527
+#EXTINF:0,NBC WILX  Onondaga -  Michigan
+http://iptvhosting.org.uk:83/7676/6767/310526
+#EXTINF:0,NBC WIS Columbia -  South Carolina
+http://iptvhosting.org.uk:83/7676/6767/310525
+#EXTINF:0,NBC WITN  Washington -  North Carolina
+http://iptvhosting.org.uk:83/7676/6767/310524
+#EXTINF:0,NBC WJFW Rhinelander -  Wisconsin
+http://iptvhosting.org.uk:83/7676/6767/310523
+#EXTINF:0,NBC WJHG Panama City -  Florida
+http://iptvhosting.org.uk:83/7676/6767/310522
+#EXTINF:0,NBC WKTV Utica -  New York
+http://iptvhosting.org.uk:83/7676/6767/310521
+#EXTINF:0,NBC WLBT Jackson -  Mississippi
+http://iptvhosting.org.uk:83/7676/6767/310520
+#EXTINF:0,NBC WLIO Lima -  Ohio
+http://iptvhosting.org.uk:83/7676/6767/310519
+#EXTINF:0,NBC WLUC Marquette -  Michigan
+http://iptvhosting.org.uk:83/7676/6767/310518
+#EXTINF:0,NBC WMBF Myrtle Beach -  South Carolina
+http://iptvhosting.org.uk:83/7676/6767/310517
+#EXTINF:0,NBC WMTV Madison -  Wisconsin
+http://iptvhosting.org.uk:83/7676/6767/310516
+#EXTINF:0,NBC WNDU South Bend -  Indiana
+http://iptvhosting.org.uk:83/7676/6767/310515
+#EXTINF:0,NBC WOWT Omaha -  Nebraska
+http://iptvhosting.org.uk:83/7676/6767/310514
+#EXTINF:0,NBC WPBI Lafayette -  Indiana
+http://iptvhosting.org.uk:83/7676/6767/310513
+#EXTINF:0,NBC WPTV West Palm Beach -  Florida
+http://iptvhosting.org.uk:83/7676/6767/310512
+#EXTINF:0,NBC WPTZ Plattsburgh -  New York
+http://iptvhosting.org.uk:83/7676/6767/310511
+#EXTINF:0,NBC WRDW Augusta -  Georgia
+http://iptvhosting.org.uk:83/7676/6767/310510
+#EXTINF:0,NBC WRGX Dothan -  Alabama
+http://iptvhosting.org.uk:83/7676/6767/310509
+#EXTINF:0,NBC WSAZ Huntington -  West Virginia
+http://iptvhosting.org.uk:83/7676/6767/310508
+#EXTINF:0,NBC WSFA Montgomery -  Alabama
+http://iptvhosting.org.uk:83/7676/6767/310507
+#EXTINF:0,NBC WTAP Parkersburg -  West Virginia
+http://iptvhosting.org.uk:83/7676/6767/310506
+#EXTINF:0,NBC WTHR Indianapolis -  Indiana
+http://iptvhosting.org.uk:83/7676/6767/300428
+#EXTINF:0,NBC WTLV Jacksonville -  Florida
+http://iptvhosting.org.uk:83/7676/6767/300466
+#EXTINF:0,NBC WTMJ Milwaukee -  Wisconsin
+http://iptvhosting.org.uk:83/7676/6767/300427
+#EXTINF:0,NBC WTVA Tupelo -  Mississippi
+http://iptvhosting.org.uk:83/7676/6767/310505
+#EXTINF:0,NBC WTVJ Miami -  Florida
+http://iptvhosting.org.uk:83/7676/6767/300426
+#EXTINF:0,NBC WVIT  New Britain/Hartford/New Haven -  Connecticut
+http://iptvhosting.org.uk:83/7676/6767/300425
+#EXTINF:0,NBC WVTM BIRMINGHAM AL
+http://iptvhosting.org.uk:83/7676/6767/310504
+#EXTINF:0,NBC WWBT Richmond -  Virginia
+http://iptvhosting.org.uk:83/7676/6767/310503
+#EXTINF:0,NBC WXIA Atlanta -  Georgia
+http://iptvhosting.org.uk:83/7676/6767/300424
+#EXTINF:0,NBC WXII Winston-Salem -  North Carolina
+http://iptvhosting.org.uk:83/7676/6767/310502
+#EXTINF:0,NBC WXXV Gulfport -  Mississippi
+http://iptvhosting.org.uk:83/7676/6767/310501
+#EXTINF:0,NBC WYFF Greenville -  South Carolina
+http://iptvhosting.org.uk:83/7676/6767/310500
+#EXTINF:0,US: Atlanta Channel
+http://iptvhosting.org.uk:83/7676/6767/300273
+#EXTINF:0,US: Key TV
+http://iptvhosting.org.uk:83/7676/6767/300260
+#EXTINF:0,US: Orange TV
+http://iptvhosting.org.uk:83/7676/6767/300239
+#EXTINF:0,US: WGN News
+http://iptvhosting.org.uk:83/7676/6767/300229
+#EXTINF:0,US: ESPN COLLEGE EXTRA 1 | HD
+http://iptvhosting.org.uk:83/7676/6767/305724
+#EXTINF:0,US: ESPN COLLEGE EXTRA 2 | HD
+http://iptvhosting.org.uk:83/7676/6767/305723
+#EXTINF:0,US: ESPN COLLEGE EXTRA 3 | HD
+http://iptvhosting.org.uk:83/7676/6767/305722
+#EXTINF:0,US: ESPN COLLEGE EXTRA 4 | HD
+http://iptvhosting.org.uk:83/7676/6767/305721
+#EXTINF:0,US: ESPN COLLEGE EXTRA 5 | HD
+http://iptvhosting.org.uk:83/7676/6767/305720
+#EXTINF:0,US: ESPN COLLEGE EXTRA 6 | HD
+http://iptvhosting.org.uk:83/7676/6767/305719
+#EXTINF:0,US: ESPN COLLEGE EXTRA 7 l HD
+http://iptvhosting.org.uk:83/7676/6767/310057
+#EXTINF:0,US: ESPN COLLEGE EXTRA 8 l HD
+http://iptvhosting.org.uk:83/7676/6767/310056
+#EXTINF:0,LA: ESPN PLUS HD
+http://iptvhosting.org.uk:83/7676/6767/267752
+#EXTINF:0,FOX SPORTS 1
+http://iptvhosting.org.uk:83/7676/6767/254408
+#EXTINF:0,FOX SPORTS 1 Backup
+http://iptvhosting.org.uk:83/7676/6767/254406
+#EXTINF:0,FOX SPORTS 2
+http://iptvhosting.org.uk:83/7676/6767/254407
+#EXTINF:0,FOX SPORTS 2 SD
+http://iptvhosting.org.uk:83/7676/6767/254405
+#EXTINF:0,PAC 12 ARIZONA HD
+http://iptvhosting.org.uk:83/7676/6767/168355
+#EXTINF:0,PAC 12 BAY AREA HD
+http://iptvhosting.org.uk:83/7676/6767/168356
+#EXTINF:0,PAC 12 LOS ANGELES HD
+http://iptvhosting.org.uk:83/7676/6767/258567
+#EXTINF:0,PAC 12 MOUNTAIN HD
+http://iptvhosting.org.uk:83/7676/6767/168358
+#EXTINF:0,PAC 12 NATIONAL HD
+http://iptvhosting.org.uk:83/7676/6767/168359
+#EXTINF:0,PAC 12 OREGON HD
+http://iptvhosting.org.uk:83/7676/6767/168360
+#EXTINF:0,PAC 12 WASHINGTON HD
+http://iptvhosting.org.uk:83/7676/6767/258568
+#EXTINF:0,TSN HD 1
+http://iptvhosting.org.uk:83/7676/6767/254103
+#EXTINF:0,TSN HD 2
+http://iptvhosting.org.uk:83/7676/6767/254102
+#EXTINF:0,TSN HD 3
+http://iptvhosting.org.uk:83/7676/6767/254101
+#EXTINF:0,TSN HD 4
+http://iptvhosting.org.uk:83/7676/6767/254100
+#EXTINF:0,TSN HD 5
+http://iptvhosting.org.uk:83/7676/6767/263009
+#EXTINF:0,SPORTSNET L.A.
+http://iptvhosting.org.uk:83/7676/6767/303224
+#EXTINF:0,SPORTSNET 360 HD
+http://iptvhosting.org.uk:83/7676/6767/254087
+#EXTINF:0,SPORTSNET ONE HD
+http://iptvhosting.org.uk:83/7676/6767/254086
+#EXTINF:0,SPORTSNET EAST HD
+http://iptvhosting.org.uk:83/7676/6767/268855
+#EXTINF:0,SPORTSNET PACIFIC HD
+http://iptvhosting.org.uk:83/7676/6767/254084
+#EXTINF:0,SPORTSNET WORLD HD
+http://iptvhosting.org.uk:83/7676/6767/254082
+#EXTINF:0,CSN Bay Area HD
+http://iptvhosting.org.uk:83/7676/6767/263176
+#EXTINF:0,CSN Boston HD
+http://iptvhosting.org.uk:83/7676/6767/263177
+#EXTINF:0,CSN California HD
+http://iptvhosting.org.uk:83/7676/6767/263179
+#EXTINF:0,CSN Chicago HD
+http://iptvhosting.org.uk:83/7676/6767/143061
+#EXTINF:0,CSN North West HD
+http://iptvhosting.org.uk:83/7676/6767/143063
+#EXTINF:0,CSN Philadelphia HD
+http://iptvhosting.org.uk:83/7676/6767/263178
+#EXTINF:0,WWE Network
+http://iptvhosting.org.uk:83/7676/6767/142588
+#EXTINF:0,NESN
+http://iptvhosting.org.uk:83/7676/6767/263116
+#EXTINF:0,SEC NETWORK
+http://iptvhosting.org.uk:83/7676/6767/254404
+#EXTINF:0,NBCSN
+http://iptvhosting.org.uk:83/7676/6767/254403
+#EXTINF:0,CBS Sports Network
+http://iptvhosting.org.uk:83/7676/6767/254402
+#EXTINF:0,LONGHORN NETWORK
+http://iptvhosting.org.uk:83/7676/6767/254401
+#EXTINF:0,BIG TEN NETWORK
+http://iptvhosting.org.uk:83/7676/6767/254400
+#EXTINF:0,MAVTV
+http://iptvhosting.org.uk:83/7676/6767/254398
+#EXTINF:0,MOTORS TV
+http://iptvhosting.org.uk:83/7676/6767/254397
+#EXTINF:0,MSG (Only during live events)
+http://iptvhosting.org.uk:83/7676/6767/254399
+#EXTINF:0,MSG+
+http://iptvhosting.org.uk:83/7676/6767/317669
+#EXTINF:0,OUTDOOR CHANNEL HD
+http://iptvhosting.org.uk:83/7676/6767/254396
+#EXTINF:0,GOLF CHANNEL.
+http://iptvhosting.org.uk:83/7676/6767/254393
+#EXTINF:0,TENNIS CHANNEL
+http://iptvhosting.org.uk:83/7676/6767/254392
+#EXTINF:0,RED BULL TV
+http://iptvhosting.org.uk:83/7676/6767/254394
+#EXTINF:0,Red Bull TV
+http://iptvhosting.org.uk:83/7676/6767/255315
+#EXTINF:0,SNY  (Sportsnet New York)
+http://iptvhosting.org.uk:83/7676/6767/262802
+#EXTINF:0,Yes Network
+http://iptvhosting.org.uk:83/7676/6767/262881
+#EXTINF:0,Sportsman Channel
+http://iptvhosting.org.uk:83/7676/6767/263170
+#EXTINF:0,TVG Network
+http://iptvhosting.org.uk:83/7676/6767/309344
+#EXTINF:0,World Fishing Network
+http://iptvhosting.org.uk:83/7676/6767/263171
